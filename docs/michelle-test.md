@@ -14,5 +14,5 @@ The second quote is from [Steve Jobs](https://www.brainyquote.com/quotes/steve_j
 
 ## Red Pandas
 
-I like red pandas because are very cute and playful! 
+I like red pandas because they are very cute and playful! 
 
