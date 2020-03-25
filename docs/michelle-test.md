@@ -18,3 +18,4 @@ The second quote is from [Steve Jobs](https://www.brainyquote.com/quotes/steve_j
 
 I like red pandas because they are very cute and playful! 
 
+![Red panda](https://s0.geograph.org.uk/geophotos/01/16/18/1161889_8dfe96a5.jpg?raw=true Snoozing red panda)
