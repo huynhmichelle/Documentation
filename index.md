@@ -28,6 +28,15 @@ permalink: /
 ---
 
 ## Prerequisites
+Before proceeding to the instructions in this guide, there are requirements that need to be met. You will need:
+-	a computer with Windows 10 operating system or MacOS operating system installed
+-	a mouse or trackpad and a keyboard connected the computer
+-	connection to the Internet
+-	a web browser installed on computer (e.g. Google Chrome, Firefox)
+-	an email account
+-	a Github account
+-	the installation of Java 13 on your computer provided through [Oracle](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)
+-	the installation of IntelliJ IDEA 2019.3.1 on computer provided through [JetBrains](https://www.jetbrains.com/idea/download/)
 
 ---
 
@@ -47,6 +56,8 @@ The instructions in this document use the following typographic conventions.<br>
 | Text field:<br><br>Text field prompts that require input will be presented in a monospace font. | `Enter your name`, `Commit message`  |
 | Button sequence:<br><br>Buttons that you will need to click will have its name enclosed with opening and closing square brackets. For a sequence of button clicks, there will be a > symbol found between the two buttons. This symbol represents the successive order of the flow of buttons.<br><br>The flow of buttons will be starting from the left and will move sequentially to the right. | \[Start\] > \[File\] > \[Settings\]  | 
 | Main and dialog windows:<br><br>Dialog windows are smaller graphical windows that appear within the main window. When these dialog windows appear, you will usually need to perform an action before returning to the main window.<br><br>Window names will be enclosed in opening and closing quotation marks. The final word before the closing quotation marks is “Window”.<br><br>Note that the word “Window” may not actually appear in the window’s title bar but is just a marker in the documentation for windows. | "New Dialog Window" |
+
+---
 
 ## Conclusion
 
