@@ -7,10 +7,17 @@ permalink: /
 ---
 
 # Introduction
+{: .no_toc }
 
 ---
+
 ## Table of contents
 {: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Is This Guide For You?
 {: .no_toc }
