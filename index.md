@@ -11,6 +11,12 @@ permalink: /
 
 ---
 
+The objective of this documentation is to help you get started with using IntelliJ, an *integrated development environment (IDE)* provided by JetBrains.<br>
+IntelliJ is an IDE for users to code and develop software in the Java programming language. IntelliJ has features that can assist users in their development experience.<br>
+In this guide, there will be a walkthrough for setting up three useful features in IntelliJ: version control, unit tests, and the Checkstyle plugin. 
+
+---
+
 ## Table of contents
 {: .no_toc .text-delta }
 
