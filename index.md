@@ -43,12 +43,10 @@ The instructions in this document use the following typographic conventions.<br>
 
 | Convention Description  | Example |
 | :------------- | :------------- |
-| Commands and computer prompts:<br><br>Bolded words found in the body of the documentation represent an action that you will need to carry out.<br>  | **Save**, **Return**, **Click**, **Press**, **Type**, **Exit**  |
-| Text field:<br><br>Text field prompts that require input will be presented in a monospace font.<br>|
-`Enter your name`, `Commit message`  |
-| Button sequence:<br><br>Buttons that you will need to click will have its name enclosed with opening and closing square brackets. For a sequence of button clicks, there will be a > symbol found between the two buttons. This symbol represents the successive order of the flow of buttons.<br><br>The flow of buttons will be starting from the left and will move sequentially to the right.<br>|
-\[Start\] > \[File\] > \[Settings\]  | 
-| Main and dialog windows:<br><br>Dialog windows are smaller graphical windows that appear within the main window. When these dialog windows appear, you will usually need to perform an action before returning to the main window.<br><br>Window names will be enclosed in opening and closing quotation marks. The final word before the closing quotation marks is “Window”.<br><br>Note that the word “Window” may not actually appear in the window’s title bar but is just a marker in the documentation for windows.   | "New Dialog Window" |
+| Commands and computer prompts:<br><br>Bolded words found in the body of the documentation represent an action that you will need to carry out.  | **Save**, **Return**, **Click**, **Press**, **Type**, **Exit**  |
+| Text field:<br><br>Text field prompts that require input will be presented in a monospace font. | `Enter your name`, `Commit message`  |
+| Button sequence:<br><br>Buttons that you will need to click will have its name enclosed with opening and closing square brackets. For a sequence of button clicks, there will be a > symbol found between the two buttons. This symbol represents the successive order of the flow of buttons.<br><br>The flow of buttons will be starting from the left and will move sequentially to the right. | \[Start\] > \[File\] > \[Settings\]  | 
+| Main and dialog windows:<br><br>Dialog windows are smaller graphical windows that appear within the main window. When these dialog windows appear, you will usually need to perform an action before returning to the main window.<br><br>Window names will be enclosed in opening and closing quotation marks. The final word before the closing quotation marks is “Window”.<br><br>Note that the word “Window” may not actually appear in the window’s title bar but is just a marker in the documentation for windows. | "New Dialog Window" |
 
 ## Conclusion
 
