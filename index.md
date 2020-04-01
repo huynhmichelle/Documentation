@@ -11,9 +11,11 @@ permalink: /
 
 ---
 
-The objective of this documentation is to help you get started with using IntelliJ, an *integrated development environment (IDE)* provided by JetBrains.<br>
-IntelliJ is an IDE for users to code and develop software in the Java programming language. IntelliJ has features that can assist users in their development experience.<br>
-In this guide, there will be a walkthrough for setting up three useful features in IntelliJ: version control, unit tests, and the Checkstyle plugin. 
+The objective of this documentation is to help you get started with using IntelliJ, an *integrated development environment (IDE)* provided by JetBrains.
+
+IntelliJ is an IDE for users to code and develop software in the Java programming language. IntelliJ has features that can assist users in their development experience.
+
+In this guide, there will be walkthroughs for setting up three useful features in IntelliJ: version control, unit tests, and the Checkstyle plugin. 
 
 ---
 
@@ -59,7 +61,7 @@ The instructions in this document use the following typographic conventions.<br>
 | Convention Description  | Example |
 | :------------- | :------------- |
 | Commands and computer prompts:<br><br>Bolded words found in the body of the documentation represent an action that you will need to carry out.  | **Save**, **Return**, **Click**, **Press**, **Type**, **Exit**  |
-| Text field:<br><br>Text field prompts that require input will be presented in a monospace font. | `Enter your name`, `Commit message`  |
+| Text field:<br><br>Text field prompts that require input will be presented in a *monospace font*. | `Enter your name`, `Commit message`  |
 | Key terms:<br><br>Important terms will be italicized. These terms are also defined in the Glossary. | *Integrated development environment*, *Dialog window* |
 | Button sequence:<br><br>Buttons that you will need to click will have its name enclosed with opening and closing square brackets. For a sequence of button clicks, there will be a > symbol found between the two buttons. This symbol represents the successive order of the flow of buttons.<br><br>The flow of buttons will be starting from the left and will move sequentially to the right. | \[Start\] > \[File\] > \[Settings\]  | 
 | Main and *dialog windows*:<br><br>Window names will be enclosed in opening and closing quotation marks. The final word before the closing quotation marks is “Window”.<br><br>Note that the word “Window” may not actually appear in the window’s title bar but is just a marker in the documentation for windows. | "New Dialog Window" |
