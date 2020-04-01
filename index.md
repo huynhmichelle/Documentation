@@ -40,8 +40,16 @@ Any uses of **click** in the instructions will refer to a left click of a comput
 
 ## Typographic Conventions
 The instructions in this document use the following typographic conventions.<br>
+
 | Convention Description  | Example |
 | ------------- | ------------- |
+| Commands and computer prompts:<br><br>Bolded words found in the body of the<br>documentation represent an action that you will<br>need to carry out.<br>  | **Save**, **Return**, **Click**, **Press**, **Type**,<br>**Exit**  |
+| Text field:<br><br>Text field prompts that require input will be<br>presented in a monospace font.<br>
+| `Enter your name`, `Commit message`  |
+| Button sequence:<br><br>Buttons that you will need to click will have<br>its name enclosed with opening and closing square<br>brackets. For a sequence of button clicks, there<br>will be a > symbol found between the two buttons.<br>This symbol represents the successive order of<br>the flow of buttons.<br><br>The flow of buttons will be starting from the<br>left and will move sequentially to the right.<br>
+| `[Start]` > `[File]` > `[Settings]`  | 
+| Main and dialog windows:<br><br>Dialog windows are smaller graphical windows that<br>appear within the main window. When these dialog<br>windows appear, you will usually need to perform<br>an action before returning to the main window.<br><br>Window names will be enclosed in opening and<br> closing quotation marks. The final word before<br>the closing quotation marks is “Window”.<br><br>Note that the word “Window” may not actually 
+appear in the window’s title bar but is just a marker in the documentation for windows.   | "New Dialog Window" |
 
 ## Conclusion
 
