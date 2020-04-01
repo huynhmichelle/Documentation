@@ -39,11 +39,11 @@ Any uses of **click** in the instructions will refer to a left click of a comput
 ---
 
 ## Typographic Conventions
-| Convention Description                            | Example       |                   
-| -------------                                     |-------------  |                  
-| Commands and computer prompts:<br><br>Bolded words found in the body of the<br> documentation represent an action that you will<br> need to carry out.<br>     |**Save**, **Return**, **Click**, **Press**, **Type**,<br>**Exit** |                     
-| Text:<br>                                         |`Enter your name`, `Commit message` |
-
+The instructions in this document use the following typographic conventions.
+| Convention Description | Example |                   
+| ------------- |-------------|                  
+| Commands and computer prompts:<br><br>Bolded words found in the body of the<br> documentation represent an action that you will<br> need to carry out.<br> |**Save**, **Return**, **Click**, **Press**, **Type**,<br>**Exit** |                     
+| Text:<br> |`Enter your name`, `Commit message` |
 
 
 ## Conclusion
