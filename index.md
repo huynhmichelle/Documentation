@@ -32,14 +32,62 @@ permalink: /
 ---
 
 ## Mouse Conventions
-The use of **click** in throughout this documentation will refer to the action that you will perform to execute a computer event such as selecting a button.
+The use of **click** throughout this documentation will refer to the action that you will perform to execute a computer event such as selecting a button.
 
-Any uses of **click** in the instructions will refer to a left click of a computer mouse or a tap of a track pad with a single finger. **Right-clicks**, done through a clicking the right button of the mouse or a tap of the track pad with two fingers, will be explicitly indicated. 
+Any uses of **click** in the instructions will refer to a left click of a computer mouse or a tap of a track pad with a single finger. **Right-clicks**, done through clicking the right button of the mouse or a tap of the track pad with two fingers, will be explicitly indicated. 
 
 ---
 
 ## Typographic Conventions
+Convention Description                            | Example                           
+-------------                                     |:-------------:                     
+Commands and computer prompts:                    |**Save**, **Return**, **Click**, **Press**, **Type**,
+                                                   **Exit**                     
 
+Bolded words found in the body of the 
+documentation represent an action that you will 
+need to carry out. 
+Text:                                             |`Enter your name`, `Commit message`
+
+Text field prompts that require input will be 
+presented in a monospace font.
+Button sequence:                                  |`[Start]` > `[File]` > `[Settings]`
+
+Buttons that you will need to click will have 
+its name enclosed with opening and closing square 
+brackets. For a sequence of button clicks, there 
+will be a > symbol found between the two buttons. 
+This symbol represents the successive order of 
+the flow of buttons. 
+
+The flow of buttons will be starting from the 
+left and will move sequentially to the right.
+Main and dialog windows:                          | "New Dialog Window"
+
+Dialog windows are smaller graphical windows that 
+appear within the main window. When these dialog 
+windows appear, you will usually need to perform 
+an action before returning to the main window.
+
+Window names will be enclosed in opening and 
+closing quotation marks. The final word before 
+the closing quotation marks is “Window”. 
+
+Note that the word “Window” may not actually 
+appear in the window’s title bar but is just 
+a marker in the documentation for windows. 
+
+
+
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ## Conclusion
 
