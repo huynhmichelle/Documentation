@@ -20,22 +20,28 @@ permalink: /
 ---
 
 ## Is This Guide For You?
-{: .no_toc }
+
+---
 
 ## Software Versions
-{: .no_toc }
+
+---
 
 ## Prerequisites
-{: .no_toc }
+
+---
 
 ## Mouse Conventions
-{: .no_toc }
+The use of **click** in throughout this documentation will refer to the action that you will perform to execute a computer event such as selecting a button.
+
+Any uses of **click** in the instructions will refer to a left click of a computer mouse or a tap of a track pad with a single finger. **Right-clicks**, done through a clicking the right button of the mouse or a tap of the track pad with two fingers, will be explicitly indicated. 
+
+---
 
 ## Typographic Conventions
-{: .no_toc }
+
 
 ## Conclusion
-{: .no_toc }
 
 ---
 
