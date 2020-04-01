@@ -7,20 +7,28 @@ permalink: /
 ---
 
 # Introduction
+
 ---
-{: .no_toc }
+## Table of contents
+{: .no_toc .text-delta }
 
 ## Is This Guide For You?
+{: .no_toc }
 
 ## Software Versions
+{: .no_toc }
 
 ## Prerequisites
+{: .no_toc }
 
 ## Mouse Conventions
+{: .no_toc }
 
 ## Typographic Conventions
+{: .no_toc }
 
 ## Conclusion
+{: .no_toc }
 
 ---
 
