@@ -40,54 +40,43 @@ Any uses of **click** in the instructions will refer to a left click of a comput
 
 ## Typographic Conventions
 Convention Description                            | Example                           
--------------                                     |:-------------:                     
-Commands and computer prompts:                    |**Save**, **Return**, **Click**, **Press**, **Type**,
+-------------                                     |-------------                     
+Commands and computer prompts:                    |**Save**, **Return**, **Click**, **Press**, **Type**,<br>
                                                    **Exit**                     
 
-Bolded words found in the body of the 
-documentation represent an action that you will 
-need to carry out. 
-Text:                                             |`Enter your name`, `Commit message`
+Bolded words found in the body of the<br> 
+documentation represent an action that you will<br> 
+need to carry out.<br> 
+Text:<br>                                          |`Enter your name`, `Commit message`
+<br>
+Text field prompts that require input will be<br> 
+presented in a monospace font.<br>
+Button sequence:<br>                               |`[Start]` > `[File]` > `[Settings]`
 
-Text field prompts that require input will be 
-presented in a monospace font.
-Button sequence:                                  |`[Start]` > `[File]` > `[Settings]`
+Buttons that you will need to click will have<br> 
+its name enclosed with opening and closing square<br> 
+brackets. For a sequence of button clicks, there<br> 
+will be a > symbol found between the two buttons.<br> 
+This symbol represents the successive order of<br> 
+the flow of buttons.<br> 
+<br>
+The flow of buttons will be starting from the<br> 
+left and will move sequentially to the right.<br>
+Main and dialog windows:<br>                       | "New Dialog Window"
 
-Buttons that you will need to click will have 
-its name enclosed with opening and closing square 
-brackets. For a sequence of button clicks, there 
-will be a > symbol found between the two buttons. 
-This symbol represents the successive order of 
-the flow of buttons. 
-
-The flow of buttons will be starting from the 
-left and will move sequentially to the right.
-Main and dialog windows:                          | "New Dialog Window"
-
-Dialog windows are smaller graphical windows that 
-appear within the main window. When these dialog 
-windows appear, you will usually need to perform 
-an action before returning to the main window.
-
-Window names will be enclosed in opening and 
-closing quotation marks. The final word before 
-the closing quotation marks is “Window”. 
+Dialog windows are smaller graphical windows that<br> 
+appear within the main window. When these dialog<br> 
+windows appear, you will usually need to perform<br> 
+an action before returning to the main window.<br>
+<br>
+Window names will be enclosed in opening and<br> 
+closing quotation marks. The final word before<br> 
+the closing quotation marks is “Window”.<br> 
 
 Note that the word “Window” may not actually 
 appear in the window’s title bar but is just 
 a marker in the documentation for windows. 
 
-
-
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 ## Conclusion
 
