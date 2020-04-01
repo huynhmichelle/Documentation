@@ -29,14 +29,14 @@ permalink: /
 
 ## Prerequisites
 Before proceeding to the instructions in this guide, there are requirements that need to be met. You will need:
--	a computer with Windows 10 operating system or MacOS operating system installed
--	a mouse or trackpad and a keyboard connected the computer
--	connection to the Internet
--	a web browser installed on computer (e.g. Google Chrome, Firefox)
+-	a computer with Windows 10 or MacOS operating system installed
+-	a mouse or trackpad and a keyboard connected to your computer
+-	a connection to the Internet
+-	a web browser installed on your computer (e.g. Google Chrome, Firefox)
 -	an email account
 -	a Github account
--	the installation of Java 13 on your computer provided through [Oracle](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)
--	the installation of IntelliJ IDEA 2019.3.1 on computer provided through [JetBrains](https://www.jetbrains.com/idea/download/)
+-	an installation of Java 13 on your computer provided through [Oracle](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)
+-	an installation of IntelliJ IDEA 2019.3.1 on your computer provided through [JetBrains](https://www.jetbrains.com/idea/download/)
 
 ---
 
