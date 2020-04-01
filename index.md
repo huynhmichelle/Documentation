@@ -42,7 +42,8 @@ Before proceeding to the instructions in this guide, there are requirements that
 -	a connection to the Internet
 -	a web browser installed on your computer (e.g. Google Chrome, Firefox)
 -	an email account
--	a Github account
+-	a [Github](https://github.com/) account
+- A [JetBrains](https://account.jetbrains.com/login) account
 -	an installation of Java 13 on your computer provided through [Oracle](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)
 -	an installation of IntelliJ IDEA 2019.3.1 on your computer provided through [JetBrains](https://www.jetbrains.com/idea/download/).
 
