@@ -56,11 +56,11 @@ Any uses of **click** in the instructions will refer to a left click of a comput
 ---
 
 ## Typographic Conventions
-The instructions in this document use the following typographic conventions.<br>
+The instructions in this document use the following typographic conventions:<br>
 
 | Convention Description  | Example |
 | :------------- | :------------- |
-| Commands and computer prompts:<br><br>Bolded words found in the body of the documentation represent an action that you will need to carry out.  | **Save**, **Return**, **Click**, **Press**, **Type**, **Exit**  |
+| Commands:<br><br>Bolded words found in the body of the documentation represent an action that you will need to carry out.  | **Save**, **Return**, **Click**, **Press**, **Type**, **Exit**  |
 | Text field:<br><br>Text field prompts that require input will be presented in a *monospace font*. | `Enter your name`, `Commit message`  |
 | Key terms:<br><br>Important terms will be italicized. These terms are also defined in the Glossary. | *Integrated development environment*, *Dialog window* |
 | Button sequence:<br><br>Buttons that you will need to click will have its name enclosed with opening and closing square brackets. For a sequence of button clicks, there will be a > symbol found between the two buttons. This symbol represents the successive order of the flow of buttons.<br><br>The flow of buttons will be starting from the left and will move sequentially to the right. | \[Start\] > \[File\] > \[Settings\]  | 
