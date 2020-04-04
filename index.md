@@ -11,11 +11,11 @@ permalink: /
 
 ---
 
-The objective of this documentation is to help you get started with using IntelliJ, an *integrated development environment (IDE)* provided by JetBrains.  
+The objective of this documentation is to help you get started with using IntelliJ IDEA, an *integrated development environment (IDE)* provided by JetBrains.  
 
-IntelliJ is an IDE for users to write *code* and develop software in the Java programming language. IntelliJ has features that can assist users in their development experience.  
+IntelliJ IDEA is an IDE for users to write *code* and develop software in the Java programming language. IntelliJ IDEA has features that can assist users in their development experience.  
 
-In this guide, there will be walkthroughs for setting up three useful features in IntelliJ: *version control*, the Checkstyle *plugin*, and *unit tests*. 
+In this guide, there will be walkthroughs for setting up three useful features in IntelliJ IDEA: *version control*, the Checkstyle *plugin*, and *unit tests*. 
 
 ---
 
@@ -28,7 +28,7 @@ In this guide, there will be walkthroughs for setting up three useful features i
 ---
 
 ## Is This Guide For You?
-This guide is intended for users with basic computer skills and coding knowledge. This guide will provide you with step-by-step instructions to set up three key tools in IntelliJ IDEA. These tools can improve your coding experience with using the IDE.
+This guide is intended for users with basic computer skills and users that are interested in or starting to learn Java. This guide will provide you with step-by-step instructions to set up three key tools in IntelliJ IDEA. These tools can improve your coding experience with using the IDE.
 
 By the end of this guide, you will learn how to use IntelliJ IDEA to
 - set up version control to help you track changes to your Java code
@@ -40,7 +40,7 @@ By the end of this guide, you will learn how to use IntelliJ IDEA to
 ## Software Versions
 This guide uses IntelliJ IDEA version 2019.3 and Java 13, specifically for desktop computers or laptops with a Mac operating system.  
 
-If your computer does not have IntelliJ IDEA, you can download the latest version [here](https://www.jetbrains.com/idea/download/). Please select the Ultimate option.  
+If your computer does not have IntelliJ IDEA, you can download the latest version [here](https://www.jetbrains.com/idea/download/). 
 
 You can also install Java 13 [here](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html).
 
@@ -86,3 +86,8 @@ The instructions in this document use the following typographic conventions:<br>
 ---
 
 ## Conclusion
+With IntelliJ IDEA's tools for code analysis, various plug-ins, and support for numerous other languages and frameworks outside of Java, users can customize their IDE to fit their distinct programming needs.  
+
+This documentation will go through steps to set-up your IDE with features that can help you begin your experience working with IntelliJ IDEA.
+
+We recommend that you start with [Setting Up Version Control](https://seungho0106.github.io/Documentation/docs/version-control).
