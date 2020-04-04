@@ -14,10 +14,14 @@ Introductory description here.
 
 ---
 
-## Table of contents
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
 ---
+
+## Configuring Git Version Control in IntelliJ
+
+## Committing and Pushing Changes to Your Work
