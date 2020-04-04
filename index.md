@@ -33,7 +33,7 @@ This guide is intended for users with basic computer skills and coding knowledge
 By the end of this guide, you will learn how to use IntelliJ IDEA to
 - set up *version control* to help you track changes to your Java code
 - set up *unit tests* to help you examine the function of particular parts of your code 
-- set up a *plugin*, called Checkstyle to help ensure that your code adheres to common rules.
+- set up a *plugin* called Checkstyle to help ensure that your code adheres to common rules.
 
 ---
 
@@ -78,6 +78,10 @@ The instructions in this document use the following typographic conventions:<br>
 | Key terms:<br><br>Important terms will be italicized. These terms are also defined in the Glossary. | *Integrated development environment*, *Dialog window* |
 | Button sequence:<br><br>Buttons that you will need to click will have its name enclosed with opening and closing square brackets. For a sequence of button clicks, there will be a > symbol found between the two buttons. This symbol represents the successive order of the flow of buttons.<br><br>The flow of buttons will be starting from the left and will move sequentially to the right. | \[Start\] > \[File\] > \[Settings\]  | 
 | Main and *dialog windows*:<br><br>Window names will be enclosed in opening and closing quotation marks. The final word before the closing quotation marks is “Window”.<br><br>Note that the word “Window” may not actually appear in the window’s title bar but is just a marker in the documentation for windows. | "New Dialog Window" |
+
+<img src="assets/images/exclamation-icon.png" alt= "Note of exclamation icon" width="50"/>
+
+**Note**: This is a note icon. When this icon appears in the documentation, it indicates that you should pay close attention to the information that follows.
 
 ---
 
