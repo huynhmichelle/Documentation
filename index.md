@@ -32,21 +32,26 @@ In this guide, there will be walkthroughs for setting up three useful features i
 ---
 
 ## Software Versions
+This guide uses IntelliJ IDEA version 2019.3 and Java 13, specifically for desktop computers or laptops with a Mac operating system.  
+
+If your computer does not have IntelliJ IDEA, you can download the latest version [here](https://www.jetbrains.com/idea/download/). Please select the Ultimate option.  
+
+You can also install the most recent version of Java [here](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html).
 
 ---
 
 ## Prerequisites
-Before proceeding to the instructions in this guide, there are requirements that need to be met. You will need:
--	a computer with Windows 10 or MacOS operating system installed
+Before proceeding to the instructions in this guide, there are requirements that need to be met. Other than IntelliJ IDEA and Java 13, you will need:
+-	a computer with the MacOS operating system installed
 -	a mouse or trackpad and a keyboard connected to your computer
 -	a connection to the Internet
 -	a web browser installed on your computer (e.g. Google Chrome, Firefox)
 -	an email account
--	a [Github](https://github.com/) account
 - a [JetBrains](https://account.jetbrains.com/login) account
+
+If you are interested in setting up *version control* through IntelliJ IDEA, you will also need:
+- a [Github](https://github.com/) account
 - an installation of [Git](https://git-scm.com/downloads)
--	an installation of Java 13 on your computer provided through [Oracle](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)
--	an installation of IntelliJ IDEA 2019.3.1 on your computer provided through [JetBrains](https://www.jetbrains.com/idea/download/).
 
 ---
 
