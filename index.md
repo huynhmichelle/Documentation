@@ -19,7 +19,7 @@ In this guide, there will be walkthroughs for setting up three useful features i
 
 ---
 
-## Table of contents
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -27,8 +27,10 @@ In this guide, there will be walkthroughs for setting up three useful features i
 
 ---
 
-## Is This Guide For You?
-This guide is intended for users with basic computer skills and users that are interested in or starting to learn Java. This guide will provide you with step-by-step instructions to set up three key tools in IntelliJ IDEA. These tools can improve your coding experience with using the IDE.
+## Is This Guide for You?
+This guide is intended for users with basic computer skills and users that are interested in or starting to learn Java. This guide is also intended for users that are interested in or just starting out with using IntelliJ IDEA.  
+
+This guide will provide you with step-by-step instructions to set up three key tools in IntelliJ IDEA. These tools can improve your coding experience with using the IDE.
 
 By the end of this guide, you will learn how to use IntelliJ IDEA to
 - set up version control to help you track changes to your Java code
