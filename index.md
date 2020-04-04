@@ -13,7 +13,7 @@ permalink: /
 
 The objective of this documentation is to help you get started with using IntelliJ, an *integrated development environment (IDE)* provided by JetBrains.  
 
-IntelliJ is an IDE for users to code and develop software in the Java programming language. IntelliJ has features that can assist users in their development experience.  
+IntelliJ is an IDE for users to write *code* and develop software in the Java programming language. IntelliJ has features that can assist users in their development experience.  
 
 In this guide, there will be walkthroughs for setting up three useful features in IntelliJ: version control, unit tests, and the Checkstyle plugin. 
 
@@ -28,6 +28,12 @@ In this guide, there will be walkthroughs for setting up three useful features i
 ---
 
 ## Is This Guide For You?
+This guide is intended for users with basic computer skills and coding knowledge. This guide will provide you with step-by-step instructions to set up three key tools in IntelliJ IDEA. These tools can improve your coding experience with using the IDE.
+
+By the end of this guide, you will learn how to use IntelliJ IDEA to
+- set up *version control* to help you track changes to your Java code
+- set up *unit tests* to help you examine the function of particular parts of your code 
+- set up a *plugin*, called Checkstyle to help ensure that your code adheres to common rules.
 
 ---
 
@@ -36,22 +42,22 @@ This guide uses IntelliJ IDEA version 2019.3 and Java 13, specifically for deskt
 
 If your computer does not have IntelliJ IDEA, you can download the latest version [here](https://www.jetbrains.com/idea/download/). Please select the Ultimate option.  
 
-You can also install the most recent version of Java [here](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html).
+You can also install Java 13 [here](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html).
 
 ---
 
 ## Prerequisites
-Before proceeding to the instructions in this guide, there are requirements that need to be met. Other than IntelliJ IDEA and Java 13, you will need:
--	a computer with the MacOS operating system installed
+Before proceeding to the instructions in this guide, there are requirements that need to be met. Other than IntelliJ IDEA and Java 13, you will need
+-	a computer with the Mac operating system installed
 -	a mouse or trackpad and a keyboard connected to your computer
 -	a connection to the Internet
 -	a web browser installed on your computer (e.g. Google Chrome, Firefox)
 -	an email account
-- a [JetBrains](https://account.jetbrains.com/login) account
+- a [JetBrains](https://account.jetbrains.com/login) account.
 
-If you are interested in setting up *version control* through IntelliJ IDEA, you will also need:
+If you are interested in setting up version control through IntelliJ IDEA, you will also need
 - a [Github](https://github.com/) account
-- an installation of [Git](https://git-scm.com/downloads)
+- an installation of [Git](https://git-scm.com/downloads).
 
 ---
 
