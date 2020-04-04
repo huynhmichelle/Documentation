@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Setting Up Version Control
-nav_order: 2
+nav_exclude: true
 ---
 
 # Setting Up Version Control

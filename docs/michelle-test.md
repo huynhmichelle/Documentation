@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Test Markdown Michelle
-nav_order: 98
+nav_exclude: true
 ---
 
 ## Famous Quotes
