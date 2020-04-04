@@ -15,7 +15,7 @@ The objective of this documentation is to help you get started with using Intell
 
 IntelliJ is an IDE for users to write *code* and develop software in the Java programming language. IntelliJ has features that can assist users in their development experience.  
 
-In this guide, there will be walkthroughs for setting up three useful features in IntelliJ: *version control*, *unit tests*, and the Checkstyle *plugin*. 
+In this guide, there will be walkthroughs for setting up three useful features in IntelliJ: *version control*, the Checkstyle *plugin*, and *unit tests*. 
 
 ---
 
@@ -32,8 +32,8 @@ This guide is intended for users with basic computer skills and coding knowledge
 
 By the end of this guide, you will learn how to use IntelliJ IDEA to
 - set up version control to help you track changes to your Java code
-- set up unit tests to help you examine the function of particular parts of your code 
-- set up a plugin called Checkstyle to help ensure that your code adheres to common rules.
+- set up a plugin called Checkstyle to help ensure that your code adheres to common rules 
+- set up unit tests to help you examine the function of particular parts of your code.
 
 ---
 
