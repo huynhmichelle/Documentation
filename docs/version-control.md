@@ -33,7 +33,7 @@ This will open the "Main Window" of IntelliJ IDEA. You should see the Welcome Sc
 6. **Click** \[Finish\]. This should take you to the following "Main Window" with your new project open.
 7. **Click** \[IntelliJ IDEA\] > \[Preferences\] in the toolbar on the top of your screen. <br>
 The "Preferences Dialog Window" should appear.<br>
-![alt text](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png "Note icon")  **Note**: If you have your "Main Window" in full screen mode, you may need to hover over the top of your computer screen to see the toolbar.<br>
+![alt text](../assets/images/note-icon.png?raw=true "Note icon")  **Note**: If you have your "Main Window" in full screen mode, you may need to hover over the top of your computer screen to see the toolbar.<br>
 8. 
 
 ---
