@@ -55,7 +55,7 @@ An "Add Files for Initial Commit Dialog Window" will be displayed.
 19. **Select** the files that you want initially added to your GitHub project repository.<br>
 The .idea files do not need to be added.<br>
 You can edit the message in the `Commit Message` field.
-20. **Click \[Add\].<br>
+20. **Click** \[Add\].<br>
 At the bottom right of your screen, you will see a message similar to the following. 
 
 ---
