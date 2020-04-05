@@ -85,4 +85,11 @@ When you have a new Git project repository and some files that you are working o
 
 This section will present steps for making commits and pushing commits in your IntelliJ IDE.  
 
-1. 
+1. **Click** \[VCS\] > \[Commit\].<br>
+A "Commit Changes Dialog Window" will display.
+2. **Select** all the source files with changes that you want committed.
+3. **Write** a commit message in the 'Commit Message' input field that describes the changes you have made to the selected files.
+4. **Select** whether you want to commit or commit and push your changes.
+    * **Click** \[Commit\] if you want your commits to be made only on your local computer.
+    * **Select** the dropdown icon next to \[Commit\] and click \[Commit and Push\] > \[Push\] if you want your commits published to GitHub.<br>
+    You can now visit your GitHub account and navigate to your project repository to see the commits that you have pushed.
