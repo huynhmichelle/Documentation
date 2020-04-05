@@ -34,8 +34,8 @@ This instruction set will install the CheckStyle-IDEA plugin needed to run Check
 2. **Click** on \[IntelliJ IDEA\] > \[Preferences\] from the toolbar at the top of your screen. A new "Preferences Window" should appear.<br>
 ![Toolbar 1](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc4.png?raw=true "Toolbar 1")<br>
 
-3. In the "Preferences Window", **click** on \[Plugins\] on the left side. **Check** \[Marketplace\] is highlighted at the top of the "Preferences Window", and **type** `CheckStyle-IDEA` in the search bar.<br>
-![Marketplace](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle01.png?raw=true =100x "Marketplace")<br>
+3. In the "Preferences Window", **click** on \[Plugins\] on the left side. **Check** \[Marketplace\] is highlighted at the top of the "Preferences Window", and **type** `CheckStyle-IDEA` in the search bar.
+![Marketplace](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle01.png?raw=true "Marketplace"){: style="width: 100px" }
 
 4. **Click** on \[Install\] and **wait** for the download to finish.<br>
 ![Install CheckStyle](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle02.png?raw=true "Install CheckStyle")<br>
