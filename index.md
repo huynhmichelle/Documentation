@@ -81,7 +81,7 @@ The instructions in this document use the following typographic conventions:<br>
 | Button sequence:<br><br>Buttons that you will need to click will have its name enclosed with opening and closing square brackets. For a sequence of button clicks, there will be a > symbol found between the two buttons. This symbol represents the successive order of the flow of buttons.<br><br>The flow of buttons will be starting from the left and will move sequentially to the right. | \[Start\] > \[File\] > \[Settings\]  | 
 | Main and *dialog windows*:<br><br>Window names will be enclosed in opening and closing quotation marks. The final word before the closing quotation marks is “Window”.<br><br>Note that the word “Window” may not actually appear in the window’s title bar but is just a marker in the documentation for windows. | "New Dialog Window" |
 
-<img src="assets/images/exclamation-icon.png" alt= "Note of exclamation icon" width="50" style="float:left; margin: 0px 5px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flat_exclamation_icon_-_blue.svg/240px-Flat_exclamation_icon_-_blue.svg.png" alt= "Note of exclamation icon" width="50" style="float:left; margin: 0px 5px;"/>
 
 **Note**: This is a note icon. When this icon appears in the documentation, it indicates that you should pay close attention to the information that follows.
 
