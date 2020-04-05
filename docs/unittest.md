@@ -30,15 +30,15 @@ This section will examine how to install JUnit \(v4.13\) into the current projec
 This instruction set will install the JUnit \(v4.13\) *dependency* needed to write unit tests in IntelliJ IDEA.
 
 1. **Navigate** to \[File\] > \[Project Structure...\]. A new "Project Structure Window" should appear.<br>
+![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest01.png?raw=true){: style="width: 50%" }<br>
 ![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: style="float:left; margin: 0px 5px; width: 32px;" }
 **Note**: This option only installs JUnit to the current project. To install JUnit for all future projects, navigate to \[File\] > \[Other Settings\] > \[Structure for New Projects...\].<br>
-![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest01.png?raw=true){: style="width: 50%" }<br>
 
 2. **Click** on \[Modules\] > \[Dependencies\] to display dependencies installed in the current project.<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest02.png?raw=true){: style="width: 90%" }<br>
 
 3. **Click** on \[+\] > \[Library...\] > \[From Maven...\] at the bottom of the "Project Structure Window" to add a new dependency to the current project.<br>
-![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest03.png?raw=true){: style="width: 50%" }<br>
+![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest03.png?raw=true){: style="width: 60%" }<br>
 
 4. In the search box, **type** `junit:junit:4.13`, then **click** \[OK\].<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest04.png?raw=true){: style="width: 50%" }<br>
