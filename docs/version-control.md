@@ -37,7 +37,7 @@ The "Preferences Dialog Window" should appear.<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flat_exclamation_icon_-_blue.svg/240px-Flat_exclamation_icon_-_blue.svg.png" alt= "Note of exclamation icon" width="50" style="float:left; margin: 0px 5px;"/>
 
 **Note**: If you have your "Main Window" in full screen mode, you may need to hover over the top of your computer screen to see the toolbar.<br>
-8\. 
+8. 
 
 ---
 
