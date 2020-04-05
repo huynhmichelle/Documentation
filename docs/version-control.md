@@ -29,10 +29,10 @@ On Mac, you can do this by clicking the Launchpad icon on the Mac dock.<br>
 This will open the "Main Window" of IntelliJ IDEA. You should see the welcome screen like the one displayed below.<br>
 ![IntelliJ IDEA welcome screen](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc1.png?raw=true "IntelliJ IDEA welcome screen")
 2. **Click** \[Create New Project\] which should direct you to a "New Window".<br> 
-3. **Check** that Java 13 is added to the `Project SDK` field.<br>
+3. **Check** that Java 13 is added to the 'Project SDK' field.<br>
 ![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc2.png?raw=true "Project SDK field")
 4. **Click** \[Next\] > \[Next\].
-5. **Name** your new project in the `Project Name` field in the "New Project Window".<br>
+5. **Name** your new project in the 'Project Name' field in the "New Project Window".<br>
 ![Project name field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc3.png?raw=true "Project name field")
 6. **Click** \[Finish\]. This should take you to the following "Main Window" with your new project open.
 7. **Click** \[IntelliJ IDEA\] > \[Preferences\] in the toolbar on the top of your screen.<br>
@@ -47,7 +47,7 @@ The "Preferences Dialog Window" should appear.<br>
 10. **Click** [GitHub] in the same dropdown menu > \[Add account\].<br>
 ![Add GitHub account](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc8.png?raw=true "Add GitHub account")<br>
 A "Log In  to GitHub Dialog Window" will appear.
-11. **Enter** your GitHub username and password in the `Login` and `Password` fields.
+11. **Enter** your GitHub username and password in the 'Login' and 'Password' fields.
 12. **Click** \[Login\].<br>
 If your login is successful, the "Log In to GitHub Dialog Window" will disappear and return you to the "Preferences Window".
 13. **Click** \[OK\]. You should now return to the "Main Window".
@@ -60,12 +60,12 @@ A "Finder Dialog Window" will appear.
 A tab called "Version Control" should appear at the bottom-left side of the "Main Window".<br>
 Git button options should also appear at the top-right of the "Main Window".
 17. **Click** \[VCS\] > \[Import into Version Control\] > \[Share Project on GitHub\].<br>
-A "Share Project on GitHub Dialog Window" will display. You can check or uncheck the checkbox next to `Private` depending if you want your project repository to be private or public on GitHub.
+A "Share Project on GitHub Dialog Window" will display. You can check or uncheck the checkbox next to 'Private' depending if you want your project repository to be private or public on GitHub.
 18. **Click** \[Share\].<br>
 An "Add Files for Initial Commit Dialog Window" will be displayed.
 19. **Select** the files that you want initially added to your GitHub project repository.<br>
 The .idea files do not need to be added.<br>
-You can edit the message in the `Commit Message` field.
+You can edit the message in the 'Commit Message' field.
 20. **Click** \[Add\].<br>
 At the bottom right of your screen, you will see a message similar to the following image.
 
