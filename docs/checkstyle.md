@@ -68,15 +68,15 @@ Let's try running a few tests to see how clean our code is. We will first config
 ![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: style="float: left; width: 16px" }
 > **Note**: If the project navigation bar is hidden, try clicking on \[1: Project\] on the left side.
 
-![Checkstyle](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle09.png?raw=true "Checkstyle")
+![Checkstyle](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle09.png?raw=true "Checkstyle"){: style="width: 60%" }
 
-4. **Open** the CheckStyleTest.java file by double-clicking on the file name. Once you select the file to test, **run** the tests by clicking on \[CheckStyle\] at the bottom, then the green play button. CheckStyle will now begin to analyze the selected file.
-![Checkstyle](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle10.png?raw=true "Checkstyle"){: style="width: 50%" }
+4. **Open** the CheckStyleTest.java file by double-clicking on the file name. Once you select the file to test, **run** the tests by clicking on \[CheckStyle\] at the bottom, then the green play button. CheckStyle will now begin to analyze the selected file.<br>
+![Checkstyle](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle10.png?raw=true "Checkstyle"){: style="width: 70%" }
 
-5. After analysis is complete, CheckStyle will inform you of all the violated standard checks. For CheckStyleTest.java, there should be a few standard check errors including 'LocalVariableName' and 'MagicNumber'.
-![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: style="float: left; width: 16px" }
+5. After analysis is complete, CheckStyle will inform you of all the violated standard checks. For CheckStyleTest.java, there should be a few standard check errors including 'LocalVariableName' and 'MagicNumber'.<br>
+![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: width: 32px" }
 > **Note**: For more information on standard check errors, the official documentation can be found [here](https://checkstyle.sourceforge.io/checks.html).
 
-![Checkstyle](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle11.png?raw=true "Checkstyle"){: style="width: 50%" }
+![Checkstyle](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle11.png?raw=true "Checkstyle"){: style="width: 70%" }
 
 Now you can use CheckStyle to detect any stylistic errors and write consistent code throughout your project.
