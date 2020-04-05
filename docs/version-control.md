@@ -15,9 +15,7 @@ In this section, you will be setting up version control using a system called Gi
 
 Through Git, you can initialize a project storage location, or a *repository* that will maintain a history of project file revisions over time.
 
-Each time you *commit* your work for a file through Git, there will be a new version of the file recorded in your version history. Each version has a distinct ID and indicates the user that made the commit. 
-
-If you only commit changes through Git, they will only be recorded in your local machine. When you *push* your changes, the commits that you made through Git will be reflected on your online GitHub too.
+Each time you *commit* your work for a file through Git, there will be a new version of the file recorded in your version history. Each version has a distinct ID and indicates the user that made the commit. If you only commit changes through Git, they will only be recorded in your local machine. When you *push* your changes, the commits that you made through Git will be reflected on your online GitHub too.
 
 This section will take you through the steps of creating a Git repository for a new project, connecting it to GitHub, and committing and pushing your project changes in IntelliJ IDEA.
 
@@ -48,7 +46,7 @@ This will open the "Main Window" of IntelliJ IDEA. You should see the welcome sc
 7. **Click** \[IntelliJ IDEA\] > \[Preferences\] in the toolbar on the top of your screen.<br>
 ![Toolbar 1](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc4.png?raw=true "Toolbar 1")<br>
 The "Preferences Dialog Window" should appear.<br>
-![Note icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true "Note icon")  **Note**: If you have your "Main Window" in full screen mode, you may need to hover over the top of your computer screen to see the toolbar.<br>
+![Note icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true "Note icon"){: style="float: left; margin: 0px 5px; width: 32px" }  **Note**: If you have your "Main Window" in full screen mode, you may need to hover over the top of your computer screen to see the toolbar.<br>
 8. **Click** the dropdown icon next to \[Version Control\] > \[Git\] in the left sidebar.
 ![Sidebar 1](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc5.png?raw=true "Sidebar 1")<br>
 ![Sidebar 2](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc6.png?raw=true "Sidebar 2")
