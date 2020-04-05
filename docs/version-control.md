@@ -27,8 +27,9 @@ Introductory description here.
 On Mac, you can do this by clicking the Launchpad icon on the Mac dock.<br>
 This will open the "Main Window" of IntelliJ IDEA. You should see the welcome screen like the one displayed below.<br>
 ![IntelliJ IDEA welcome screen](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc1.png?raw=true "IntelliJ IDEA welcome screen")
-2. **Click** \[Create New Project\], which should direct you to a "New Window".<br> 
-3. **Check** that Java 13 is added to the `Project SDK` field.
+2. **Click** \[Create New Project\] which should direct you to a "New Window".<br> 
+3. **Check** that Java 13 is added to the `Project SDK` field.<br>
+![Project SDK field]("IntelliJ IDEA welcome screen")
 4. **Click** \[Next\] > \[Next\].
 5. **Name** your new project in the `Project Name` field in the "New Project Window".
 6. **Click** \[Finish\]. This should take you to the following "Main Window" with your new project open.
