@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Setting Up IntelliJ IDEA Features
-description: Setting Up IntelliJ IDEA Features guides users through configuring Git version control, the Checkstyle plugin, and unit tests. They are three helpful features for working with IntelliJ IDEA, a Java integrated development environment (IDE).
+description: Setting Up IntelliJ IDEA Features guides users through configuring Git version control, the CheckStyle plugin, and unit tests. They are three helpful features for working with IntelliJ IDEA, a Java integrated development environment (IDE).
 baseurl: "/Documentation" # the subpath of your site, e.g. /blog
 url: "https://seungho0106.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
