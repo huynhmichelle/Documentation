@@ -57,8 +57,10 @@ A "Finder Dialog Window" will appear.
 15. **Check** that your correct project folder is selected.<br>
 ![Finder window](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc10.png?raw=true "Finder window")
 16. **Click** \[Open\].<br>
-A tab called "Version Control" should appear at the bottom-left side of the "Main Window".<br>
-Git button options should also appear at the top-right of the "Main Window".
+When your Git repository is successfully created, a tab called 'Version Control' should appear at the bottom-left side of the "Main Window".<br>
+![Version control tab](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc11.png?raw=true "Version control tab")<br>
+'Git' button options should also appear at the top-right of the "Main Window".<br>
+![Git button options](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc12.png?raw=true "Git button options")
 17. **Click** \[VCS\] > \[Import into Version Control\] > \[Share Project on GitHub\].<br>
 A "Share Project on GitHub Dialog Window" will display. You can check or uncheck the checkbox next to 'Private' depending if you want your project repository to be private or public on GitHub.
 18. **Click** \[Share\].<br>
