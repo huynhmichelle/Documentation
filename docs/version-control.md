@@ -7,10 +7,19 @@ nav_order: 2
 # Setting Up Version Control
 {: .no_toc }
 
-
 ---
 
-Introductory description here. 
+Version control is an important process for managing revisions you make to your files. There are various version control systems (VCS) that help users maintain a record of their revisions. 
+
+In this section, you will be setting up version control using a system called Git. Please ensure that you have Git installed prior to executing the following steps. 
+
+Through Git, you can set up a project, or a *repository* that will maintain a history of project file revisions over time.
+
+Each time you *commit* your work for a file through Git, there will be a new version of the file recorded in your version history. Each version has a distinct ID and indicates the user that made the commit. 
+
+If you only commit changes through Git, they will only be recorded in your local machine. When you *push* your changes, the commits that you made through Git will be reflected on your online GitHub too.
+
+This section will take you through the steps of creating a Git repository for a new project, connecting it to GitHub, and committing and pushing your project changes in IntelliJ IDEA.
 
 ---
 
@@ -23,7 +32,7 @@ Introductory description here.
 ---
 
 ## Configuring Git Version Control for a New Project in IntelliJ IDEA
-This section will go through the steps for creating a new IntelliJ IDEA project folder and a Git repository for the new project. This section will also cover the steps for sharing the newly created project repository on GitHub.
+This sub-section will go through the steps for creating a new IntelliJ IDEA project folder and a Git repository for the new project. This section will also cover the steps for sharing the newly created project repository on GitHub.
 
 1. **Open** IntelliJ on your computer.<br> 
 On Mac, you can do this by clicking the Launchpad icon on the Mac dock.<br>
@@ -81,9 +90,7 @@ Upon completion of these steps, you can now see your new repository on GitHub. Y
 ---
 
 ## Tracking Changes You Make to Your Work
-When you have a new Git project repository and some files that you are working on, there may be changes that you want to save. Each time you *commit* your work for a file through Git, there will be a new version of the file recorded in your version history. If you only commit changes through Git, they will only be recorded in your local machine. When you *push* your changes, the commits that you made through Git will be reflected on your online GitHub too.  
-
-This section will present steps for making commits and pushing commits in your IntelliJ IDE.  
+When you have a new Git project repository and some files that you are working on, there may be changes that you want to save. This sub-section will present steps for making commits and pushing commits in your IntelliJ IDE.  
 
 1. **Click** \[VCS\] > \[Commit\].<br>
 ![Toolbar 3](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc17.png?raw=true "Toolbar")<br>
@@ -98,4 +105,4 @@ A "Commit Changes Dialog Window" will display.
     ![Commit and Push button](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc20.png?raw=true "Commit and Push button")<br>
     You can now visit your GitHub account and navigate to your project repository to see the commits that you have pushed.
 
-Upon completion of these steps, you now have an understanding of how to regularly commit and push changes you make to your work.
+Upon completion of these steps, you now have an understanding of how to regularly capture the current state of your work through Git.
