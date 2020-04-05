@@ -46,26 +46,32 @@ This instruction set will install the CheckStyle-IDEA plugin needed to run Check
 6. After the IntelliJ IDEA has reloaded, **navigate** to \[Preferences\] > \[Plugins\] and **click** on \[Installed\].<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle04.png?raw=true)
 
-7. **Ensure** CheckStyle-IDEA is enabled with a check mark. You should also see [CheckStyle] near the bottom-left corner of the "Main Window".<br>
+7. **Ensure** CheckStyle-IDEA is enabled with a check mark. You should also see \[CheckStyle\] near the bottom-left corner of the "Main Window".<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle05.png?raw=true){: style="width: 50%" }<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle06.png?raw=true){: style="width: 50%" }
+
+![Caution Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/caution-icon.png?raw=true){: style="float:left; margin: 0px 5px;" }
+**Caution**: Make sure CheckStyle-IDEA is enabled before you proceed to the next section.<br>
+
+Now you have successfully installed CheckStyle-IDEA to your IntelliJ IDEA.
 
 ---
 
 ## Running CheckStyle Tests
-Let's try running a few tests to see how clean our code is. We will first configure which CheckStyle rules to enforce for the current project. 
+ Let's try running a few CheckStyle tests to determine how clean our code is. We will first configure which CheckStyle rules to enforce for the current project. 
 
 1. **Navigate** to \[IntelliJ IDEA\] > \[Preferences\] > \[Other Settings\] > \[Checkstyle\].<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle07.png?raw=true){: style="width: 90%" }<br>
 
 2. Under 'Configuration File', **click** the checkbox next to the desired CheckStyle configuration file. For now, **check** 'Sun Checks' and **click** on \[Apply\] > \[OK\] to **save** the settings and **close** the "Preferences Window".<br>
-![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: width: 32px" }
+![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: style="float: left; margin: 0px 5px; width: 32px" }
 **Note**: If you wish to add a customized CheckStyle configuration file, click on \[+\] under 'Configuration File'.<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle08.png?raw=true){: style="width: 90%" }<br>
 
 3. **Download** the <a href="https://raw.githubusercontent.com/seungho0106/Documentation/gh-pages/assets/images/checkstyle/CheckStyle.java" download>CheckStyle.java</a> file and add it to your project directory. The file should appear on the left side of the IntelliJ IDEA.<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle09.png?raw=true){: style="width: 40%" }<br>
-![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: width: 32px" } **Note**: If the project navigation bar is hidden, try clicking on \[1: Project\] on the left side.<br>
+![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: style="float: left; margin: 0px 5px; width: 32px" }
+**Note**: If the project navigation bar is hidden, try clicking on \[1: Project\] on the left side.<br>
 
 4. **Open** the CheckStyleTest.java file by double-clicking on the file name. Once you select the file to test, **run** the tests by clicking on \[CheckStyle\] at the bottom, then the green play button.<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle10.png?raw=true)<br>
@@ -73,7 +79,9 @@ CheckStyle will now begin to analyze the selected file.
 
 5. After analysis is complete, CheckStyle will inform you of all the violated standard checks. For CheckStyleTest.java, there should be a few standard check errors including 'LocalVariableName' and 'MagicNumber'.<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle11.png?raw=true)<br>
-![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: width: 32px" }
+![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: style="float: left; margin: 0px 5px; width: 32px" }
 **Note**: For more information on standard check errors, the official documentation can be found [here](https://checkstyle.sourceforge.io/checks.html).
 
 Now you can use CheckStyle to detect any stylistic errors and write consistent code throughout your project.
+
+Another commonly used feature of IntelliJ is [unit testing](https://seungho0106.github.io/Documentation/docs/unittest/).
