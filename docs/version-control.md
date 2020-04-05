@@ -22,6 +22,8 @@ Introductory description here.
 
 ---
 
-## Configuring Git Version Control in IntelliJ
+## Configuring Git Version Control in IntelliJ IDEA
 
-## Committing and Pushing Changes to Your Work
+---
+
+## Committing and Pushing Changes of Your Work
