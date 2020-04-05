@@ -25,7 +25,8 @@ Introductory description here.
 ## Configuring Git Version Control in IntelliJ IDEA
 1. **Open** IntelliJ on your computer.<br> 
 On Mac, you can do this by clicking the Launchpad icon on the Mac dock.<br>
-This will open the "Main Window" of IntelliJ IDEA. You should see the Welcome Screen like the one displayed below.  
+This will open the "Main Window" of IntelliJ IDEA. You should see the Welcome Screen like the one displayed below.<br>
+![IntelliJ IDEA welcome screen](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/version-control-1.png?raw=true "IntelliJ IDEA welcome screen")
 2. **Click** \[Create New Project\], which should direct you to a "New Window".<br> 
 3. **Check** that Java 13 is added to the `Project SDK` field.
 4. **Click** \[Next\] > \[Next\].
