@@ -9,13 +9,19 @@ nav_order: 99
 ---
 **Code**: Programming instructions for a computer, e.g. for software applications.
 
+**Commit**: An action to save a revised version of your working file to your local Git repository.
+
 **Dialog window**: Smaller graphical windows that appear within the main window. When these dialog windows appear, you will usually need to perform an action before returning to the main window.
 
 **Integrated development environment (IDE)**: A software application that combines various development tools including a code editor and a feature to help solve issues in code.
 
 **Monospace font**: A font where every character has the same width. 
 
+**Repository**: A location where information is kept and managed.
+
 **Plugin**: A component of a computer application, often optional to install, that adds a feature to the application. 
+
+**Push**: An action that publishes all of your commits on your online GitHub repository.
 
 **Unit tests**: Code written to independently test specific parts of code and their functionality. 
 
