@@ -59,7 +59,7 @@ Before proceeding to the instructions in this guide, there are requirements that
 
 If you are interested in setting up version control through IntelliJ IDEA, you will also need
 - a [Github](https://github.com/) account
-- an installation of [Git](https://git-scm.com/downloads).
+- an installation and set-up of [Git](https://git-scm.com/downloads).
 
 ---
 
