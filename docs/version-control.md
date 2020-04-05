@@ -52,7 +52,7 @@ A "Log In  to GitHub Dialog Window" will appear.
 If your login is successful, the "Log In to GitHub Dialog Window" will disappear and return you to the "Preferences Window".
 13. **Click** \[OK\]. You should now return to the "Main Window".
 14. **Click** \[VCS\] in the toolbar located at the top of your screen > \[Import into Version Control\] > \[Create Git Repository\].<br>
-![Toolbar 2](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc8.png?raw=true "Toolbar 2")
+![Toolbar 2](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc9.png?raw=true "Toolbar 2")
 A "Finder Dialog Window" will appear.
 15. **Check** that your correct project folder is selected.
 16. **Click** \[Open\].<br>
