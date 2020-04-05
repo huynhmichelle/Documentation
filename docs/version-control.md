@@ -23,7 +23,8 @@ Introductory description here.
 ---
 
 ## Configuring Git Version Control for a New Project in IntelliJ IDEA
-Introductory section description here.  
+This section will go through the steps for creating a new IntelliJ IDEA project folder and a Git repository for the new project. This section will also cover the steps for sharing the newly created project repository on GitHub.
+
 1. **Open** IntelliJ on your computer.<br> 
 On Mac, you can do this by clicking the Launchpad icon on the Mac dock.<br>
 This will open the "Main Window" of IntelliJ IDEA. You should see the welcome screen like the one displayed below.<br>
@@ -74,6 +75,14 @@ You can edit the message in the 'Commit Message' field.<br>
 20. **Click** \[Add\].<br>
 At the bottom right of your screen, you will see a message similar to the following image.
 ![Notification](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc16.png?raw=true "Notification")
+
+Upon completion of these steps, you can now see your new repository on GitHub. You can now create files in your new project in the IDE and add them to your Git repository.
+
 ---
 
 ## Committing and Pushing Changes of Your Work
+When you have a new Git project repository and some files that you are working on, there may be changes that you want to save. Each time you *commit* your work for a file through Git, there will be a new version of the file recorded in your version history. If you only commit changes through Git, they will only be recorded in your local machine. When you *push* your changes, the commits that you made through Git will be reflected on your online GitHub too.  
+
+This section will present steps for making commits and pushing commits in your IntelliJ IDE.  
+
+1. 
