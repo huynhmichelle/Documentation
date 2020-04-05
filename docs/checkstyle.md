@@ -50,7 +50,7 @@ This instruction set will install the CheckStyle-IDEA plugin needed to run Check
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle05.png?raw=true){: style="width: 50%" }<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle06.png?raw=true){: style="width: 50%" }
 
-![Caution Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/caution-icon.png?raw=true){: style="float:left; margin: 0px 5px;" }
+![Caution Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/caution-icon.png?raw=true){: style="float:left; margin: 0px 5px; width: 32px;" }
 **Caution**: Make sure CheckStyle-IDEA is enabled before you proceed to the next section.<br>
 
 Now you have successfully installed CheckStyle-IDEA to your IntelliJ IDEA.
