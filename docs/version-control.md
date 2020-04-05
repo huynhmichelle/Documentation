@@ -22,7 +22,7 @@ Introductory description here.
 
 ---
 
-## Configuring Git Version Control in IntelliJ IDEA
+## Configuring Git Version Control for a New Project in IntelliJ IDEA
 Introductory section description here.  
 1. **Open** IntelliJ on your computer.<br> 
 On Mac, you can do this by clicking the Launchpad icon on the Mac dock.<br>
@@ -63,14 +63,17 @@ When your Git repository is successfully created, a tab called 'Version Control'
 ![Git button options](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc12.png?raw=true "Git button options")
 17. **Click** \[VCS\] > \[Import into Version Control\] > \[Share Project on GitHub\].<br>
 A "Share Project on GitHub Dialog Window" will display. You can check or uncheck the checkbox next to 'Private' depending if you want your project repository to be private or public on GitHub.
+![Share Project on GitHub](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc13.png?raw=true "Share Project on GitHub")
 18. **Click** \[Share\].<br>
 An "Add Files for Initial Commit Dialog Window" will be displayed.
 19. **Select** the files that you want initially added to your GitHub project repository.<br>
 The .idea files do not need to be added.<br>
-You can edit the message in the 'Commit Message' field.
+![Add Files for Initial Commit Dialog Window](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc14.png?raw=true "Add Files for Initial Commit Dialog Window")<br>
+You can edit the message in the 'Commit Message' field.<br>
+![Add Files for Initial Commit Dialog Window 2](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc15.png?raw=true "Add Files for Initial Commit Dialog Window 2")
 20. **Click** \[Add\].<br>
 At the bottom right of your screen, you will see a message similar to the following image.
-
+![Notification](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc16.png?raw=true "Notification")
 ---
 
 ## Committing and Pushing Changes of Your Work
