@@ -33,25 +33,26 @@ This will open the "Main Window" of IntelliJ IDEA. You should see the welcome sc
 ![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc2.png?raw=true "Project SDK field")
 4. **Click** \[Next\] > \[Next\].
 5. **Name** your new project in the `Project Name` field in the "New Project Window".<br>
-![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc3.png?raw=true "Project SDK field")
+![Project name field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc3.png?raw=true "Project name field")
 6. **Click** \[Finish\]. This should take you to the following "Main Window" with your new project open.
 7. **Click** \[IntelliJ IDEA\] > \[Preferences\] in the toolbar on the top of your screen.<br>
-![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc4.png?raw=true "Project SDK field")<br>
+![Toolbar 1](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc4.png?raw=true "Toolbar 1")<br>
 The "Preferences Dialog Window" should appear.<br>
 ![Note icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true "Note icon")  **Note**: If you have your "Main Window" in full screen mode, you may need to hover over the top of your computer screen to see the toolbar.<br>
 8. **Click** the dropdown icon next to \[Version Control\] > \[Git\] in the left sidebar.
-![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc5.png?raw=true "Project SDK field")<br>
-![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc6.png?raw=true "Project SDK field")
+![Sidebar 1](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc5.png?raw=true "Sidebar 1")<br>
+![Sidebar 2](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc6.png?raw=true "Sidebar 2")
 9. **Check** that the path to your Git executable is added. 
-![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc7.png?raw=true "Project SDK field")
+![Git executable field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc7.png?raw=true "Git executable field")
 10. **Click** [GitHub] in the same dropdown menu > \[Add account\].<br>
-![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc8.png?raw=true "Project SDK field")<br>
+![Add GitHub account](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc8.png?raw=true "Add GitHub account")<br>
 A "Log In  to GitHub Dialog Window" will appear.
 11. **Enter** your GitHub username and password in the `Login` and `Password` fields.
 12. **Click** \[Login\].<br>
 If your login is successful, the "Log In to GitHub Dialog Window" will disappear and return you to the "Preferences Window".
 13. **Click** \[OK\]. You should now return to the "Main Window".
 14. **Click** \[VCS\] in the toolbar located at the top of your screen > \[Import into Version Control\] > \[Create Git Repository\].<br>
+![Toolbar 2](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc8.png?raw=true "Toolbar 2")
 A "Finder Dialog Window" will appear.
 15. **Check** that your correct project folder is selected.
 16. **Click** \[Open\].<br>
@@ -65,7 +66,7 @@ An "Add Files for Initial Commit Dialog Window" will be displayed.
 The .idea files do not need to be added.<br>
 You can edit the message in the `Commit Message` field.
 20. **Click** \[Add\].<br>
-At the bottom right of your screen, you will see a message similar to the following. 
+At the bottom right of your screen, you will see a message similar to the following image.
 
 ---
 
