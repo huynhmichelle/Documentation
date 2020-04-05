@@ -59,14 +59,13 @@ Let's try running a few tests to see how clean our code is. We will first config
 ![Checkstyle](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle07.png?raw=true "Checkstyle"){: style="width: 90%" }
 
 2. Under 'Configuration File', **click** the checkbox next to the desired CheckStyle configuration file. For now, **check** 'Sun Checks' and **click** on \[Apply\] > \[OK\] to **save** the settings and **close** the "Preferences Window".<br>
-![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: float: left; width: 32px" }
-> **Note**: If you wish to add a customized CheckStyle configuration file, click on \[+\] under 'Configuration File'.
+![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: width: 32px" }
+**Note**: If you wish to add a customized CheckStyle configuration file, click on \[+\] under 'Configuration File'.
 
 ![Checkstyle](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle08.png?raw=true "Checkstyle"){: style="width: 90%" }
 
 3. **Download** the [CheckStyleTest.java](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/CheckStyleTest.java) file and add it to your project directory. The file should appear on the left side of the IntelliJ IDEA.<br>
-![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: width: 32px" }
-> **Note**: If the project navigation bar is hidden, try clicking on \[1: Project\] on the left side.
+![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: width: 32px" } **Note**: If the project navigation bar is hidden, try clicking on \[1: Project\] on the left side.
 
 ![Checkstyle](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle09.png?raw=true "Checkstyle"){: style="width: 60%" }
 
@@ -75,7 +74,7 @@ Let's try running a few tests to see how clean our code is. We will first config
 
 5. After analysis is complete, CheckStyle will inform you of all the violated standard checks. For CheckStyleTest.java, there should be a few standard check errors including 'LocalVariableName' and 'MagicNumber'.<br>
 ![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: width: 32px" }
-> **Note**: For more information on standard check errors, the official documentation can be found [here](https://checkstyle.sourceforge.io/checks.html).
+**Note**: For more information on standard check errors, the official documentation can be found [here](https://checkstyle.sourceforge.io/checks.html).
 ![Checkstyle](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle11.png?raw=true "Checkstyle"){: style="width: 70%" }
 
 Now you can use CheckStyle to detect any stylistic errors and write consistent code throughout your project.
