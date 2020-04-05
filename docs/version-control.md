@@ -32,13 +32,18 @@ This will open the "Main Window" of IntelliJ IDEA. You should see the welcome sc
 3. **Check** that Java 13 is added to the `Project SDK` field.<br>
 ![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc2.png?raw=true "Project SDK field")
 4. **Click** \[Next\] > \[Next\].
-5. **Name** your new project in the `Project Name` field in the "New Project Window".
+5. **Name** your new project in the `Project Name` field in the "New Project Window".<br>
+![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc3.png?raw=true "Project SDK field")
 6. **Click** \[Finish\]. This should take you to the following "Main Window" with your new project open.
-7. **Click** \[IntelliJ IDEA\] > \[Preferences\] in the toolbar on the top of your screen. <br>
+7. **Click** \[IntelliJ IDEA\] > \[Preferences\] in the toolbar on the top of your screen.<br>
+![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc4.png?raw=true "Project SDK field")
 The "Preferences Dialog Window" should appear.<br>
 ![Note icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true "Note icon")  **Note**: If you have your "Main Window" in full screen mode, you may need to hover over the top of your computer screen to see the toolbar.<br>
 8. **Click** the dropdown icon next to \[Version Control\] > \[Git\] in the left sidebar.
+![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc5.png?raw=true "Project SDK field")<br>
+![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc6.png?raw=true "Project SDK field")
 9. **Check** that the path to your Git executable is added. 
+![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc7.png?raw=true "Project SDK field")
 10. **Click** [GitHub] in the same dropdown menu > \[Add account\].<br>
 A "Log In  to GitHub Dialog Window" will appear.
 11. **Enter** your GitHub username and password in the `Login` and `Password` fields.
