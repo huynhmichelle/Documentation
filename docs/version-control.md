@@ -95,5 +95,7 @@ A "Commit Changes Dialog Window" will display.
 4. **Select** whether you want to commit or commit and push your changes.
     * **Click** \[Commit\] if you want your commits to be made only on your local computer.
     * **Select** the dropdown icon next to \[Commit\] and click \[Commit and Push\] > \[Push\] if you want your commits published to GitHub.<br>
-    ![Commit and Push button](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc20.png?raw=true "Commit and Push button")
+    ![Commit and Push button](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc20.png?raw=true "Commit and Push button")<br>
     You can now visit your GitHub account and navigate to your project repository to see the commits that you have pushed.
+
+Upon completion of these steps, you now have an understanding of how to regularly commit and push changes you make to your work.
