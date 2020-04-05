@@ -86,10 +86,14 @@ When you have a new Git project repository and some files that you are working o
 This section will present steps for making commits and pushing commits in your IntelliJ IDE.  
 
 1. **Click** \[VCS\] > \[Commit\].<br>
+![Toolbar 3](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc17.png?raw=true "Toolbar")<br>
 A "Commit Changes Dialog Window" will display.
-2. **Select** all the source files with changes that you want committed.
-3. **Write** a commit message in the 'Commit Message' input field that describes the changes you have made to the selected files.
+2. **Select** all the source files with changes that you want committed.<br>
+![Commit Changes Dialog Window 1](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc18.png?raw=true "Commit Changes Dialog Window 1")
+3. **Write** a commit message in the 'Commit Message' input field that describes the changes you have made to the selected files.<br>
+![Commit Changes Dialog Window 2](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc19.png?raw=true "Commit Changes Dialog Window 2")
 4. **Select** whether you want to commit or commit and push your changes.
     * **Click** \[Commit\] if you want your commits to be made only on your local computer.
     * **Select** the dropdown icon next to \[Commit\] and click \[Commit and Push\] > \[Push\] if you want your commits published to GitHub.<br>
+    ![Commit and Push button](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc20.png?raw=true "Commit and Push button")
     You can now visit your GitHub account and navigate to your project repository to see the commits that you have pushed.
