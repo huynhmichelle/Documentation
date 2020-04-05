@@ -63,7 +63,7 @@ Let's try running a few tests to see how clean our code is. We will first config
 **Note**: If you wish to add a customized CheckStyle configuration file, click on \[+\] under 'Configuration File'.<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle08.png?raw=true){: style="width: 90%" }<br>
 
-3. **Download** the <a href="https://raw.githubusercontent.com/seungho0106/Documentation/gh-pages/assets/images/checkstyle/CheckStyleTest.java" download>CheckStyle.java</a> file and add it to your project directory. The file should appear on the left side of the IntelliJ IDEA.<br>
+3. **Download** the <a href="https://raw.githubusercontent.com/seungho0106/Documentation/gh-pages/assets/images/checkstyle/" download="CheckStyle.java">CheckStyle.java</a> file and add it to your project directory. The file should appear on the left side of the IntelliJ IDEA.<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle09.png?raw=true){: style="width: 40%" }<br>
 ![Note Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true){: width: 32px" } **Note**: If the project navigation bar is hidden, try clicking on \[1: Project\] on the left side.<br>
 
