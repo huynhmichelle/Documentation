@@ -2,7 +2,7 @@
 layout: default
 title: Introduction
 nav_order: 1
-description: "Setting Up IntelliJ IDEA Features guides users through configuring Git version control, the Checkstyle plugin, and unit tests. They are three helpful features for working with IntelliJ IDEA, a Java integrated development environment (IDE)."
+description: "Setting Up IntelliJ IDEA Features guides users through configuring Git version control, the CheckStyle plugin, and unit tests. They are three helpful features for working with IntelliJ IDEA, a Java integrated development environment (IDE)."
 permalink: /
 ---
 
@@ -15,7 +15,7 @@ The objective of this documentation is to help you get started with using Intell
 
 IntelliJ IDEA is an IDE for users to write *code* and develop software in the Java programming language.IntelliJ IDEA has features that can assist users in their development experience.  
 
-In this guide, there will be walkthroughs for setting up three useful features in IntelliJ IDEA: *version control*, the Checkstyle *plugin*, and *unit tests*. 
+In this guide, there will be walkthroughs for setting up three useful features in IntelliJ IDEA: *version control*, the CheckStyle *plugin*, and *unit tests*. 
 
 ---
 
@@ -34,7 +34,7 @@ This guide will provide you with step-by-step instructions to set up three key t
 
 By the end of this guide, you will learn how to use IntelliJ IDEA to
 - set up version control to help you track changes to your Java code
-- set up a plugin called Checkstyle to help ensure that your code adheres to common rules 
+- set up a plugin called CheckStyle to help ensure that your code adheres to common rules 
 - set up unit tests to help you examine the function of particular parts of your code.
 
 ---
