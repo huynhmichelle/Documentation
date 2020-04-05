@@ -35,20 +35,20 @@ This instruction set will install the CheckStyle-IDEA plugin needed to run Check
 ![Toolbar 1](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc4.png?raw=true "Toolbar 1")<br>
 
 3. In the "Preferences Window", **click** on \[Plugins\] on the left side. **Check** \[Marketplace\] is highlighted at the top of the "Preferences Window", and **type** `CheckStyle-IDEA` in the search bar.
-![Marketplace](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle01.png?raw=true "Marketplace"){: style="width: 80%" }
+![Marketplace](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle01.png?raw=true "Marketplace"){: style="width: 90%" }
 
 4. **Click** on \[Install\] and **wait** for the download to finish.
-![Install CheckStyle](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle02.png?raw=true "Install CheckStyle"){: style="max-width: initial" }
+![Install CheckStyle](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle02.png?raw=true "Install CheckStyle"){: style="width: 100%" }
 
 5. **Restart** the IntelliJ IDEA by **clicking** on \[Restart IDE\].
-![Install CheckStyle](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle03.png?raw=true "Install CheckStyle")<br>
+![Install CheckStyle](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle03.png?raw=true "Install CheckStyle"){: style="width: 100%" }
 
-6. After the IntelliJ IDEA has reloaded, **navigate** to \[Preferences\] > \[Plugins\] and **click** on \[Installed\].<br>
-![Installed](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle04.png?raw=true "Installed")<br>
+6. After the IntelliJ IDEA has reloaded, **navigate** to \[Preferences\] > \[Plugins\] and **click** on \[Installed\].
+![Installed](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle04.png?raw=true "Installed")
 
-7. **Ensure** CheckStyle-IDEA is enabled with a check mark. You should also see [CheckStyle] near the bottom-left corner of the "Main Window".<br>
-![CheckStyle Enabled](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle05.png?raw=true "CheckStyle Enabled")<br>
-![Toolbar 2](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle06.png?raw=true "Toolbar 2")<br>
+7. **Ensure** CheckStyle-IDEA is enabled with a check mark. You should also see [CheckStyle] near the bottom-left corner of the "Main Window".
+![CheckStyle Enabled](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle05.png?raw=true "CheckStyle Enabled"){: style="width: 100%" }
+![Toolbar 2](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/checkstyle/checkstyle06.png?raw=true "Toolbar 2"){: style="width: 100%" }
 
 ---
 
