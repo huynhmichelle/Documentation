@@ -32,7 +32,6 @@ If you already have an existing Java project
     2. **Navigate** through the "Finder Window" to search for your project
     3. **Click** on your project's name
     4. **Click** \[Open\] at the bottom of the "Finder Window". This should take you to "Main Window" with your project open.<br>
-    
 If you want to start a new Java project
     1. **Click** \[Create New Project\], which should direct you to a "New Window"
     2. **Check** that Java 13 is added to the `Project SDK` field.
