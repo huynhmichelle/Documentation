@@ -2,7 +2,7 @@
 layout: default
 title: Introduction
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Setting Up Features in IntelliJ IDEA guides users through configuring Git version control, the Checkstyle plugin, and unit tests. They are three helpful features for working with IntelliJ IDEA, an integrated development environment (IDE)."
 permalink: /
 ---
 
@@ -13,7 +13,7 @@ permalink: /
 
 The objective of this documentation is to help you get started with using IntelliJ IDEA, an *integrated development environment (IDE)* provided by JetBrains.  
 
-IntelliJ IDEA is an IDE for users to write *code* and develop software in the Java programming language. IntelliJ IDEA has features that can assist users in their development experience.  
+IntelliJ IDEA is an IDE for users to write *code* and develop software in the Java programming language. This IDE supports other languages too. IntelliJ IDEA has features that can assist users in their development experience.  
 
 In this guide, there will be walkthroughs for setting up three useful features in IntelliJ IDEA: *version control*, the Checkstyle *plugin*, and *unit tests*. 
 
