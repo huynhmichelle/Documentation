@@ -33,7 +33,6 @@ This will open the "Main Window" of IntelliJ IDEA. You should see the Welcome Sc
 6. **Click** \[Finish\]. This should take you to the following "Main Window" with your new project open.
 7. **Click** \[IntelliJ IDEA\] > \[Preferences\] in the toolbar on the top of your screen. <br>
 The "Preferences Dialog Window" should appear.<br>
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flat_exclamation_icon_-_blue.svg/240px-Flat_exclamation_icon_-_blue.svg.png" alt= "Note of exclamation icon" width="50" style="float:left; margin: 0px 5px;"/>
 
 **Note**: If you have your "Main Window" in full screen mode, you may need to hover over the top of your computer screen to see the toolbar.<br>
