@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Test Markdown David
-nav_order: 97
+nav_exclude: true
 ---
 
 ## Famous Quotes
