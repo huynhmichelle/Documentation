@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Setting Up Checkstyle Plugin
+title: Configuring CheckStyle Plugin
 nav_order: 3
 ---
 
-# Setting Up Version Control
+# Configuring CheckStyle Plugin
 {: .no_toc }
 
 
@@ -22,9 +22,8 @@ Checkstyle is used for ...
 
 ---
 
-## Configuring Git Version Control in IntelliJ IDEA
-Introductory section description here.  
+## Installing CheckStyle-IDEA Plugin
 
 ---
 
-## Committing and Pushing Changes of Your Work
+## Changing CheckStyle Profile 
