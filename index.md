@@ -33,7 +33,7 @@ This guide is intended for users with basic computer skills and users that are i
 This guide will provide you with step-by-step instructions to set up three key tools in IntelliJ IDEA. These tools can improve your coding experience with using the IDE.
 
 By the end of this guide, you will learn how to use IntelliJ IDEA to
-- set up version control to help you track changes to your Java code
+- set up version control to track changes you make to a newly created Java project
 - set up a plugin called CheckStyle to help ensure that your code adheres to common rules 
 - set up unit tests to help you examine the function of particular parts of your code.
 
