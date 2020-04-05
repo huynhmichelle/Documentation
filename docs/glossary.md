@@ -19,6 +19,8 @@ nav_order: 99
 
 **Integrated development environment (IDE)**: A software application that combines various development tools including a code editor and a feature to help solve issues in code.
 
+**Method**: In Java, a method is a collection of statements that perform a certain task. Commonly referred to as functions in other languages.
+
 **Monospace font**: A font where every character has the same width. 
 
 **Repository**: A location where information is kept and managed.
