@@ -80,7 +80,7 @@ Upon completion of these steps, you can now see your new repository on GitHub. Y
 
 ---
 
-## Committing and Pushing Changes of Your Work
+## Tracking Changes You Make to Your Work
 When you have a new Git project repository and some files that you are working on, there may be changes that you want to save. Each time you *commit* your work for a file through Git, there will be a new version of the file recorded in your version history. If you only commit changes through Git, they will only be recorded in your local machine. When you *push* your changes, the commits that you made through Git will be reflected on your online GitHub too.  
 
 This section will present steps for making commits and pushing commits in your IntelliJ IDE.  
