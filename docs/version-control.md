@@ -13,7 +13,7 @@ Version control is an important process for managing revisions you make to your 
 
 In this section, you will be setting up version control using a system called Git. Please ensure that you have Git installed prior to executing the following steps. 
 
-Through Git, you can set up a project, or a *repository* that will maintain a history of project file revisions over time.
+Through Git, you can initialize a project storage location, or a *repository* that will maintain a history of project file revisions over time.
 
 Each time you *commit* your work for a file through Git, there will be a new version of the file recorded in your version history. Each version has a distinct ID and indicates the user that made the commit. 
 
