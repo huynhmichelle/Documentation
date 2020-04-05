@@ -45,7 +45,7 @@ The "Preferences Dialog Window" should appear.<br>
 9. **Check** that the path to your Git executable is added. 
 ![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc7.png?raw=true "Project SDK field")
 10. **Click** [GitHub] in the same dropdown menu > \[Add account\].<br>
-![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc7.png?raw=true "Project SDK field")<br>
+![Project SDK field](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc8.png?raw=true "Project SDK field")<br>
 A "Log In  to GitHub Dialog Window" will appear.
 11. **Enter** your GitHub username and password in the `Login` and `Password` fields.
 12. **Click** \[Login\].<br>
