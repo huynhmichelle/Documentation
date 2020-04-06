@@ -14,4 +14,14 @@ Setting Up IntelliJ IDEA Features guides users through configuring Git version c
 
 ### Unit Tests Using JUnit
 
+---
 
+## Methods and Processes Used to Prepare This Guide
+
+### Markdown
+This guide uses [Just the Docs](https://github.com/pmarsceill/just-the-docs) as its site theme. Each documentation page in this guide is primarily written in markdown and HTML. Examples from the Just the Docs repository were helpful in preparing this guide's documentation in markdown.  
+
+Markdown was used throughout the documentation for elements like headers, lists, tables, adding images and alternative captions, and text style (e.g. emphasis of text).
+
+### Git and GitHub
+Git and GitHub were used for version control. This guide is hosted through GitHub pages.
