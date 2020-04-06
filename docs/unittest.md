@@ -71,7 +71,8 @@ The following result should display:<br>
 
 
 We can add a new test case to the current test suite. Let's **copy** the 'testDivideReturnsCorrectQuotient' method \(highlighted in the image below\) and **rename** the method to 'testDivideByZero'. MyDivisionTest.java should look like below.<br>
-```Java
+<div class="code-example" markdown="1">
+```java
     @Test
     public void testDivideByZero() {
         MyDivision myDivisionClass = new MyDivision();
@@ -80,15 +81,17 @@ We can add a new test case to the current test suite. Let's **copy** the 'testDi
         assertEquals(expected, result);
     }
 ```
+</div>
 
 If we change the second parameter of 'myDivisionClass.divide' to `0`, then what will our outcome be? Try **running** the test and see for yourself.
 
 The test results should be as following:<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest10.png?raw=true){: style="width: 90%" }<br>
-We can see that the test we just defined failed due to an 'ArithmeticException'. In this case, a division by zero is undefined, therefore the program could not handle the situation, threw an *exception*, and crashed. Failed tests identify the problem in our code, in this case, throwing an exception when the second parameter is `0`.
+We can see that the test we just defined failed due to an 'ArithmeticException'. In this case, a division by zero is undefined. Therefore, the program could not handle the situation, threw an *exception*, and crashed. Failed tests identify the problem in our code. In this case, an exception is thrown when the second parameter is `0`.
 
-To ensure the test passes, we should modify our 'divide' method inside MyDivision.java for special cases when the divisor is `0`. Let's assume all divison by `0` should return `0` and modify our method to the following:
-```Java
+To ensure the test passes, we should modify our 'divide' method inside MyDivision.java for special cases when the divisor is `0`. Let's assume all division by `0` should return `0` and modify our method to the following:
+<div class="code-example" markdown="1">
+```java
 	public int divide(int dividend, int divisor) {
 		if (divisor == 0) {
 			return 0;
@@ -96,5 +99,6 @@ To ensure the test passes, we should modify our 'divide' method inside MyDivisio
         return dividend / divisor;
     }
 ```
+</div>
 If we run the test again, both tests should pass without failure. Through failed tests, we were able to correct our code. Now you should have a better understanding of how to create unit tests.
 
