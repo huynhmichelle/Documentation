@@ -91,7 +91,7 @@ The instructions in this document use the following typographic conventions:<br>
 ---
 
 ## Conclusion
-With IntelliJ IDEA's tools for code analysis, various plugins, and support for numerous other languages and frameworks outside of Java, users can customize their IDE to fit their distinct programming needs.  
+With IntelliJ IDEA's tools for code analysis and various plugins, users can customize their IDE to fit their distinct programming needs.  
 
 This documentation will go through steps to set-up your IDE with features that can help you begin your experience working with IntelliJ IDEA.
 
