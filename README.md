@@ -17,7 +17,7 @@ Setting Up IntelliJ IDEA Features guides users through configuring Git version c
 ---
 
 ## Methods and Processes Used to Prepare This Guide
-Markdown and version control through Git and GitHub were used to prepare this guide. 
+Markdown, Git, and GitHub were used to prepare this guide. 
 
 ### Markdown
 This guide uses [Just the Docs](https://github.com/pmarsceill/just-the-docs) as its site theme. Each documentation page in this guide is primarily written in markdown and HTML. Examples from the Just the Docs GitHub repository were helpful in preparing this guide's documentation in markdown.  
