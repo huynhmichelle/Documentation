@@ -10,7 +10,7 @@ nav_order: 4
 
 ---
 
-Unit testing is a testing method where small units of source code (i.e. classes, methods) are verified for its expected behavior. Once a unit test is implemented for a specific test case, the same test can be reused over and over again. As a result, unit testing is essential for efficient software development.
+*Unit testing* is a testing method where small units of source code (i.e. classes, methods) are verified for its expected behavior. Once a unit test is implemented for a specific test case, the same test can be reused over and over again. As a result, unit testing is essential for efficient software development.
 
 For Java, JUnit is the golden standard testing framework. As such, we will use JUnit \(v4.13\) to implement our unit tests.
 
@@ -48,18 +48,42 @@ A new "Configure Library Window" should pop up. Enter a 'Name' for the library \
 5. **Download** <a href="https://raw.githubusercontent.com/seungho0106/Documentation/gh-pages/assets/images/unittest/MyDivision.java" download>MyDivision.java</a> and <a href="https://raw.githubusercontent.com/seungho0106/Documentation/gh-pages/assets/images/unittest/MyDivisionTest.java" download>MyDivisionTest.java</a> and add the two files to your project folder. **Select** MyDivisionTest.java from the left pane and **check** for any errors. If the installation was successful, there should be no errors with the file.<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest06.png?raw=true){: style="width: 60%" }<br>
 ![Caution Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/caution-icon.png?raw=true){: style="float: left; margin: 0px 5px; width: 32px;" }
-**Caution**: Make sure JUnit is correctly installed in your current project and MyDivision.java and MyDivisionTest.java are added to your project folder. <br>
+**Caution**: Make sure JUnit is correctly installed in your current project and that MyDivision.java and MyDivisionTest.java are added to your project folder. <br>
 
 ---
 
-## Analyzing Unit Tests
-Now we will analyze a simple unit test to help us understand the code structure of unit tests.<br>
+## Writing Unit Tests
+Now we will analyze a simple unit test to help us understand the code structure of unit tests. Afterwards, we will modify the code to test another *test case*.<br>
 
-Please refer to the following diagram:
-![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest07.png?raw=true){: style="width: 60%" }<br>
+<a href="https://raw.githubusercontent.com/seungho0106/Documentation/gh-pages/assets/images/unittest/MyDivision.java" download>MyDivision.java</a> is a basic class with a single method defined, called 'divide'. The method receives two parameters and returns the quotient of the given number.
 
-1. Import statements - these two statements are the bare minimum we need in order to run any kind of un
+<a href="https://raw.githubusercontent.com/seungho0106/Documentation/gh-pages/assets/images/unittest/MyDivisionTest.java" download>MyDivisionTest.java</a> is a test suite for MyDivision.java. Please refer to the diagram below.<br>
+![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest07.png?raw=true){: style="width: 90%" }<br>
+1. Import statements - we need to import at least '@Test' annotations and 'assert' statements to run any test\(`import org.junit.Test` and `import static org.junit.Assert.*;`, respectively\).
+2. '@Test' annotation - these annotations signal to the *compiler* that the *method* defined below is a *test case* for unit testing.
+3. Assert statements - tests whether given values fall under the provided condition (e.g. 'assertEquals' tests whether the given values are equal).
 
+If we take a look inside the 'testDivideReturnsCorrectQuotient' method, it checks whether the result of 4 divided by 2 is equivalent to 2. Since 4 divided by 2 does indeed equal 2, the test should pass without failure when we run it. Go ahead and try running the test by **right-clicking** on \[MyDivisionTest.java\] and **clicking** on \[Run 'MyDivisionTest'\].<br>
+![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest08.png?raw=true){: style="width: 90%" }<br>
 
-We have seen both passed and failed test cases. Now it's time to write more unit tests!
+We can add a new test case to the current test suite. Let's **copy** the 'testDivideReturnsCorrectQuotient' method \(highlighted in the image below\) and **rename** the method to 'testDivideByZero'. MyDivisionTest.java should look like below.<br>
+![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest09.png?raw=true){: style="width: 90%" }<br>
 
+If we change the second parameter of 'myDivisionClass.divide' to `0`, then what will our outcome be? Try **running** the test and see for yourself.
+
+The test results should be as following:<br>
+![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest10.png?raw=true){: style="width: 90%" }<br>
+We can see that the test we just defined failed due to an 'ArithmeticException'. In this case, a division by zero is undefined, therefore the program could not handle the situation, threw an *exception*, and crashed. Failed tests identify the problem in our code, in this case, throwing an exception when the second parameter is `0`.
+
+To ensure the test passes, we should modify our 'divide' method inside MyDivision.java for special cases when the divisor is `0`. Let's assume all divison by `0` should return `0` and modify our method to the following:
+```Java
+	public int divide(int dividend, int divisor) {
+		if (divisor == 0) {
+			return 0;
+		}
+        return dividend / divisor;
+    }
+```
+If we run the test again, both tests should pass without failure.
+
+Now you should have a better understanding of how to create unit tests.
