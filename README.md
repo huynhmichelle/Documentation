@@ -6,5 +6,15 @@
 </p>
 
 ## Features Covered in This Guide
+
 ---
+
+Setting Up IntelliJ IDEA Features guides users through configuring Git version control, the CheckStyle plugin, and unit tests. They are three helpful features for working with IntelliJ IDEA, a Java integrated development environment (IDE).
+
+### Git version control
+
+### CheckStyle plugin
+
+### Unit tests with JUnit
+
 
