@@ -35,6 +35,8 @@ This guide is hosted through GitHub Pages.
 ### Technical writing practices for instructions
 *Writing in the Technical Fields: A Practical Guide* by Thorsten Ewald has information on how to write instructions and procedures. We learned and applied topics from the book such as typographical conventions, content structure of instruction sets, and tips on graphics in our guide.
 
+---
+
 ## Conclusion
 Through the process of creating this guide, we were able to gain experience in communicating and collaborating in a team to produce user documentation. Additionally, we gained experience in technical writing, using markdown, and using Git and GitHub to manage our work.
 
