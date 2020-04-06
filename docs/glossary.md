@@ -17,6 +17,8 @@ nav_order: 99
 
 **Dialog window**: Smaller graphical windows that appear within the main window. When these dialog windows appear, you will usually need to perform an action before returning to the main window.
 
+**Exception**: Exceptions occur when the program encounters an unexpected event and does not know how to deal with the situation. If a thrown exception is not handled, the program crashes.
+
 **Integrated development environment (IDE)**: A software application that combines various development tools including a code editor and a feature to help solve issues in code.
 
 **Method**: In Java, a method is a collection of statements that perform a certain task. Commonly referred to as functions in other languages.
