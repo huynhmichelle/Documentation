@@ -66,8 +66,20 @@ Now we will analyze a simple unit test to help us understand the code structure 
 If we take a look inside the 'testDivideReturnsCorrectQuotient' method, it checks whether the result of 4 divided by 2 is equivalent to 2. Since 4 divided by 2 does indeed equal 2, the test should pass without failure when we run it. Go ahead and try running the test by **right-clicking** on \[MyDivisionTest.java\] and **clicking** on \[Run 'MyDivisionTest'\].<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest08.png?raw=true){: style="width: 90%" }<br>
 
-We can add a new test case to the current test suite. Let's **copy** the 'testDivideReturnsCorrectQuotient' method \(highlighted in the image below\) and **rename** the method to 'testDivideByZero'. MyDivisionTest.java should look like below.<br>
+The following result should display:<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest09.png?raw=true){: style="width: 90%" }<br>
+
+
+We can add a new test case to the current test suite. Let's **copy** the 'testDivideReturnsCorrectQuotient' method \(highlighted in the image below\) and **rename** the method to 'testDivideByZero'. MyDivisionTest.java should look like below.<br>
+```Java
+    @Test
+    public void testDivideByZero() {
+        MyDivision myDivisionClass = new MyDivision();
+        final int expected = 0;
+        final int result = myDivisionClass.divide(4, 0);
+        assertEquals(expected, result);
+    }
+```
 
 If we change the second parameter of 'myDivisionClass.divide' to `0`, then what will our outcome be? Try **running** the test and see for yourself.
 
@@ -84,6 +96,5 @@ To ensure the test passes, we should modify our 'divide' method inside MyDivisio
         return dividend / divisor;
     }
 ```
-If we run the test again, both tests should pass without failure.
+If we run the test again, both tests should pass without failure. Through failed tests, we were able to correct our code. Now you should have a better understanding of how to create unit tests.
 
-Now you should have a better understanding of how to create unit tests.
