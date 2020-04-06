@@ -30,7 +30,7 @@ This section will take you through the steps of creating a Git repository for a 
 ---
 
 ## Configuring Git Version Control for a New Project
-This sub-section will go through the steps for creating a new IntelliJ IDEA project folder and a Git repository for the new project. This section will also cover the steps for sharing the newly created project repository on GitHub.
+This sub-section will go through the steps for creating a new IntelliJ IDEA project folder and a Git repository for the new project. This sub-section will also cover the steps for sharing the newly created project repository on GitHub.
 
 1. **Open** IntelliJ on your computer.<br> 
 On Mac, you can do this by clicking the Launchpad icon on the Mac dock.<br>
