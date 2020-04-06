@@ -12,7 +12,7 @@ nav_order: 3
 
 [CheckStyle](https://checkstyle.sourceforge.io/) is a tool to help developers write Java code that adheres to a particular coding convention. CheckStyle analyzes the code to check for certain rules, such as formatting and code layout, and alerts any issues to the developer. As a result, projects that utilize CheckStyle have easily-readable and well-formatted code.
 
-Each Checkstyle configuration file (.xml) has their own unique rulesets defined. Developers can choose to use the bundled configuration files or customized configuration files.
+Each CheckStyle configuration file (.xml) has their own unique rulesets defined. Developers can choose to use the bundled configuration files or customized configuration files.
 
 This section will examine how to integrate CheckStyle into your IntelliJ IDEA and run CheckStyle tests against your code.
 
@@ -27,7 +27,7 @@ This section will examine how to integrate CheckStyle into your IntelliJ IDEA an
 ---
 
 ## Installing CheckStyle-IDEA Plugin
-This instruction set will install the CheckStyle-IDEA plugin needed to run CheckStyle on IntelliJ IDEA.
+This instruction set contains steps to install the CheckStyle-IDEA plugin needed to run CheckStyle on IntelliJ IDEA.
 
 1. **Open** IntelliJ IDEA to a new project.
 
