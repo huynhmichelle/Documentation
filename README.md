@@ -9,12 +9,12 @@
 
 ---
 
-Setting Up IntelliJ IDEA Features guides users through configuring Git version control, the CheckStyle plugin, and unit tests. They are three helpful features for working with IntelliJ IDEA, a Java integrated development environment (IDE).
+Setting Up IntelliJ IDEA Features guides users through configuring Git version control, the CheckStyle plugin, and unit tests using JUnit. They are three helpful features for working with IntelliJ IDEA, a Java integrated development environment (IDE).
 
-### Git version control
+### Git Version Control
 
-### CheckStyle plugin
+### CheckStyle Plugin
 
-### Unit tests with JUnit
+### Unit Tests Using JUnit
 
 
