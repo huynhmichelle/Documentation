@@ -13,7 +13,7 @@ permalink: /
 
 The objective of this documentation is to help you get started with using IntelliJ IDEA, an *integrated development environment (IDE)* provided by JetBrains.  
 
-IntelliJ IDEA is an IDE for users to write *code* and develop software in the Java programming language.IntelliJ IDEA has features that can assist users in their development experience.  
+IntelliJ IDEA is an IDE for users to write *code* and develop software in the Java programming language. IntelliJ IDEA has features that can assist users in their development experience.  
 
 In this guide, there will be walkthroughs for setting up three useful features in IntelliJ IDEA: *version control*, the CheckStyle *plugin*, and *unit tests*. 
 
@@ -50,7 +50,7 @@ You can also install Java 13 [here](https://www.oracle.com/java/technologies/jav
 
 ## Prerequisites
 Before proceeding to the instructions in this guide, there are requirements that need to be met. Other than IntelliJ IDEA and Java 13, you will need
--	a computer with the Mac operating system installed
+-	a computer with the Mac operating system
 -	a mouse or trackpad and a keyboard connected to your computer
 -	a connection to the Internet
 -	a web browser installed on your computer (e.g. Google Chrome, Firefox)
@@ -66,7 +66,7 @@ If you are interested in setting up version control through IntelliJ IDEA, you w
 ## Mouse Conventions
 The use of **click** throughout this documentation will refer to the action that you will perform to execute a computer event such as selecting a button.
 
-Any uses of **click** in the instructions will refer to a left click of a computer mouse or a tap of a track pad with a single finger. **Right-clicks**, done through clicking the right button of the mouse or a tap of the track pad with two fingers, will be explicitly indicated. 
+Any uses of **click** in the instructions will refer to a left click of a computer mouse or a tap of a trackpad with a single finger. **Right-clicks**, done through clicking the right button of the mouse or a tap of the trackpad with two fingers, will be explicitly indicated. 
 
 ---
 
@@ -87,7 +87,7 @@ The instructions in this document use the following typographic conventions:<br>
 ---
 
 ## Conclusion
-With IntelliJ IDEA's tools for code analysis, various plug-ins, and support for numerous other languages and frameworks outside of Java, users can customize their IDE to fit their distinct programming needs.  
+With IntelliJ IDEA's tools for code analysis, various plugins, and support for numerous other languages and frameworks outside of Java, users can customize their IDE to fit their distinct programming needs.  
 
 This documentation will go through steps to set-up your IDE with features that can help you begin your experience working with IntelliJ IDEA.
 
