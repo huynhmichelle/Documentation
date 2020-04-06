@@ -32,7 +32,7 @@ This section will take you through the steps of creating a Git repository for a 
 ## Configuring Git Version Control for a New Project
 This sub-section will go through the steps for creating a new IntelliJ IDEA project folder and a Git repository for the new project. This sub-section will also cover the steps for sharing the newly created project repository on GitHub.
 
-1. **Open** IntelliJ on your computer.<br> 
+1. **Open** IntelliJ IDEA on your computer.<br> 
 On Mac, you can do this by clicking the Launchpad icon on the Mac dock.<br>
 This will open the "Main Window" of IntelliJ IDEA. You should see the welcome screen like the one displayed below.<br>
 ![IntelliJ IDEA welcome screen](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc1.png?raw=true "IntelliJ IDEA welcome screen")
@@ -70,7 +70,7 @@ When your Git repository is successfully created, a tab called 'Version Control'
 'Git' button options should also appear at the top-right of the "Main Window".<br>
 ![Git button options](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc12.png?raw=true "Git button options")
 17. **Click** \[VCS\] > \[Import into Version Control\] > \[Share Project on GitHub\].<br>
-A "Share Project on GitHub Dialog Window" will display. You can check or uncheck the checkbox next to 'Private' depending if you want your project repository to be private or public on GitHub.
+A "Share Project on GitHub Dialog Window" will display. You can check or uncheck the box next to 'Private' depending if you want your project repository to be private or public on GitHub.
 ![Share Project on GitHub](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc13.png?raw=true "Share Project on GitHub")
 18. **Click** \[Share\].<br>
 An "Add Files for Initial Commit Dialog Window" will be displayed.
@@ -80,7 +80,7 @@ The .idea files do not need to be added.<br>
 You can edit the message in the 'Commit Message' field.<br>
 ![Add Files for Initial Commit Dialog Window 2](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc15.png?raw=true "Add Files for Initial Commit Dialog Window 2")
 20. **Click** \[Add\].<br>
-At the bottom right of your screen, you will see a message similar to the following image.
+At the bottom-right of your screen, you will see a message similar to the following image.
 ![Notification](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/version-control/vc16.png?raw=true "Notification")
 
 Upon completion of these steps, you can now see your new repository on GitHub. You can now create files in your new project in the IDE and add them to your Git repository.
