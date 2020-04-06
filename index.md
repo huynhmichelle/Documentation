@@ -86,7 +86,7 @@ The instructions in this document use the following typographic conventions:<br>
 **Note**: This is a note icon. When this icon appears in the documentation, it indicates that you should pay close attention to the information that follows.<br>
 
 ![Caution Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/caution-icon.png?raw=true){: style="float: left; margin: 0px 5px; width: 32px;" }
-**Caution**: Make sure JUnit is correctly installed in your current project and that MyDivision.java and MyDivisionTest.java are added to your project folder. <br>
+**Caution**: This is a caution icon. When this icon appears in the documentation, it indicates that you should meet certain conditions before proceeding.<br>
 
 ---
 
