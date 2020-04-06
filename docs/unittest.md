@@ -10,7 +10,7 @@ nav_order: 4
 
 ---
 
-*Unit testing* is a testing method where small units of source code (i.e. classes, methods) are verified for its expected behavior. Once a unit test is implemented for a specific test case, the same test can be reused over and over again. As a result, unit testing is essential for efficient software development.
+*Unit testing* is a testing method where small units of source code (i.e. classes, methods) are verified for their expected behavior. Once a unit test is implemented for a specific test case, the same test can be reused over and over again. As a result, unit testing is essential for efficient software development.
 
 For Java, JUnit is the golden standard testing framework. As such, we will use JUnit \(v4.13\) to implement our unit tests.
 
@@ -27,7 +27,7 @@ This section will examine how to install JUnit \(v4.13\) into the current projec
 ---
 
 ## Installing JUnit Into The Current Project
-This instruction set will install the JUnit \(v4.13\) *dependency* needed to write unit tests in IntelliJ IDEA.
+This instruction set contains steps for installing the JUnit \(v4.13\) *dependency* needed to write unit tests in IntelliJ IDEA.
 
 1. **Navigate** to \[File\] > \[Project Structure...\]. A new "Project Structure Window" should appear.<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest01.png?raw=true){: style="width: 50%" }<br>
