@@ -2,7 +2,7 @@
 layout: default
 title: Introduction
 nav_order: 1
-description: "Setting Up IntelliJ IDEA Features guides users through configuring Git version control, the CheckStyle plugin, and unit tests. They are three helpful features for working with IntelliJ IDEA, a Java integrated development environment (IDE)."
+description: "A basic user guide for using IntelliJ IDEA, an integrated development environment for Java."
 permalink: /
 ---
 
