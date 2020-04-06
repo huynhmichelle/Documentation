@@ -41,12 +41,12 @@ This instruction set will install the JUnit \(v4.13\) *dependency* needed to wri
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest03.png?raw=true){: style="width: 60%" }<br>
 
 4. In the search box, **type** `junit:junit:4.13`, then **click** \[OK\].<br>
-![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest04.png?raw=true){: style="width: 50%" }<br>
+![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest04.png?raw=true){: style="width: 60%" }<br>
 A new "Configure Library Window" should pop up. Enter a 'Name' for the library \(e.g. `JUnit (v4.13)`\) and **click** \[OK\] until you exit to the "Main Window".<br>
-![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest05.png?raw=true){: style="width: 30%" }<br>
+![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest05.png?raw=true){: style="width: 40%" }<br>
 
 5. **Download** <a href="https://raw.githubusercontent.com/seungho0106/Documentation/gh-pages/assets/images/unittest/MyDivision.java" download>MyDivision.java</a> and <a href="https://raw.githubusercontent.com/seungho0106/Documentation/gh-pages/assets/images/unittest/MyDivisionTest.java" download>MyDivisionTest.java</a> and add the two files to your project folder. **Select** MyDivisionTest.java from the left pane and **check** for any errors. If the installation was successful, there should be no errors with the file.<br>
-![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest06.png?raw=true){: style="width: 60%" }<br>
+![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest06.png?raw=true){: style="width: 90%" }<br>
 ![Caution Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/caution-icon.png?raw=true){: style="float: left; margin: 0px 5px; width: 32px;" }
 **Caution**: Make sure JUnit is correctly installed in your current project and that MyDivision.java and MyDivisionTest.java are added to your project folder. <br>
 
@@ -64,7 +64,7 @@ Now we will analyze a simple unit test to help us understand the code structure 
 3. Assert statements - tests whether given values fall under the provided condition (e.g. 'assertEquals' tests whether the given values are equal).
 
 If we take a look inside the 'testDivideReturnsCorrectQuotient' method, it checks whether the result of 4 divided by 2 is equivalent to 2. Since 4 divided by 2 does indeed equal 2, the test should pass without failure when we run it. Go ahead and try running the test by **right-clicking** on \[MyDivisionTest.java\] and **clicking** on \[Run 'MyDivisionTest'\].<br>
-![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest08.png?raw=true){: style="width: 90%" }<br>
+![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest08.png?raw=true){: style="width: 60%" }<br>
 
 The following result should display:<br>
 ![](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/unittest/unittest09.png?raw=true){: style="width: 90%" }<br>
