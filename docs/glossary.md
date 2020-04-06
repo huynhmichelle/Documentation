@@ -31,7 +31,7 @@ nav_order: 98
 
 **Push**: An action that publishes all of your commits on your online GitHub repository.
 
-**Test case**: A test to determine whether a system can execute a particular behaviour as expected
+**Test case**: A test to determine whether a system can execute a particular behaviour as expected.
 
 **Unit tests**: Code written to independently test specific parts of code and their functionality. 
 
