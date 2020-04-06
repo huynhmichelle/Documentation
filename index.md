@@ -82,7 +82,11 @@ The instructions in this document use the following typographic conventions:<br>
 | Button sequence:<br><br>Buttons that you will need to click will have its name enclosed with opening and closing square brackets. For a sequence of button clicks, there will be a > symbol found between the two buttons. This symbol represents the successive order of the flow of buttons.<br><br>The flow of buttons will be starting from the left and will move sequentially to the right. | \[Start\] > \[File\] > \[Settings\]  | 
 | Main and *dialog windows*:<br><br>Window names will be enclosed in opening and closing quotation marks. The final word before the closing quotation marks is “Window”.<br><br>Note that the word “Window” may not actually appear in the window’s title bar but is just a marker in the documentation for windows. | "New Dialog Window" |
 
-![Note icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true "Note icon"){: style="float: left; margin: 0px 5px; width: 32px" }  **Note**: This is a note icon. When this icon appears in the documentation, it indicates that you should pay close attention to the information that follows.
+![Note icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/note-icon.png?raw=true "Note icon"){: style="float: left; margin: 0px 5px; width: 32px" } 
+**Note**: This is a note icon. When this icon appears in the documentation, it indicates that you should pay close attention to the information that follows.<br>
+
+![Caution Icon](https://github.com/seungho0106/Documentation/blob/gh-pages/assets/images/caution-icon.png?raw=true){: style="float: left; margin: 0px 5px; width: 32px;" }
+**Caution**: Make sure JUnit is correctly installed in your current project and that MyDivision.java and MyDivisionTest.java are added to your project folder. <br>
 
 ---
 
