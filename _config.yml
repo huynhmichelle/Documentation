@@ -16,7 +16,7 @@
 title: Setting Up IntelliJ IDEA Features
 description: A basic user guide for using IntelliJ IDEA, an integrated development environment for Java.
 baseurl: "/Documentation" # the subpath of your site, e.g. /blog
-url: "https://seungho0106.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://huynhmichelle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
@@ -36,7 +36,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "GitHub Repository":
-    - "//github.com/seungho0106/Documentation"
+    - "//github.com/huynhmichelle/Documentation"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
