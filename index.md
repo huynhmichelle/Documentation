@@ -95,4 +95,4 @@ With IntelliJ IDEA's tools for code analysis and various plugins, users can cust
 
 This documentation will go through steps to set-up your IDE with features that can help you begin your experience working with IntelliJ IDEA.
 
-We recommend that you start with [Setting Up Version Control](https://seungho0106.github.io/Documentation/docs/version-control).
+We recommend that you start with [Setting Up Version Control](https://huynhmichelle.github.io/Documentation/docs/version-control).
